@@ -1,0 +1,900 @@
+Epoch 1/150
+
+ 1/10 [==>...........................] - ETA: 5s - loss: 693.7683 - mae: 24.8751
+Epoch 1: val_loss improved from inf to 527.81689, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 1s 27ms/step - loss: 605.7026 - mae: 23.3295 - val_loss: 527.8169 - val_mae: 21.8422
+Epoch 2/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 482.8345 - mae: 20.9888
+Epoch 2: val_loss improved from 527.81689 to 464.02155, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 539.0206 - mae: 21.7883 - val_loss: 464.0215 - val_mae: 20.2523
+Epoch 3/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 409.9445 - mae: 18.8643
+Epoch 3: val_loss improved from 464.02155 to 386.09445, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 461.9470 - mae: 19.8519 - val_loss: 386.0945 - val_mae: 18.0824
+Epoch 4/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 420.9385 - mae: 18.2363
+Epoch 4: val_loss improved from 386.09445 to 294.05164, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 368.9658 - mae: 17.1482 - val_loss: 294.0516 - val_mae: 15.0392
+Epoch 5/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 305.2554 - mae: 14.6174
+Epoch 5: val_loss improved from 294.05164 to 202.54268, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 267.5237 - mae: 13.6233 - val_loss: 202.5427 - val_mae: 11.8219
+Epoch 6/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 212.7174 - mae: 11.9908
+Epoch 6: val_loss improved from 202.54268 to 139.77118, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 179.5445 - mae: 10.8436 - val_loss: 139.7712 - val_mae: 10.1820
+Epoch 7/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 161.5090 - mae: 10.6002
+Epoch 7: val_loss improved from 139.77118 to 115.04613, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 137.0328 - mae: 10.0571 - val_loss: 115.0461 - val_mae: 9.5665
+Epoch 8/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 110.0998 - mae: 9.2600
+Epoch 8: val_loss improved from 115.04613 to 101.51017, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 115.7529 - mae: 9.4980 - val_loss: 101.5102 - val_mae: 8.9605
+Epoch 9/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 131.1261 - mae: 10.6438
+Epoch 9: val_loss improved from 101.51017 to 87.07966, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 101.6171 - mae: 8.8704 - val_loss: 87.0797 - val_mae: 8.2224
+Epoch 10/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 86.4944 - mae: 8.0313
+Epoch 10: val_loss improved from 87.07966 to 74.97812, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 87.0026 - mae: 8.1239 - val_loss: 74.9781 - val_mae: 7.5116
+Epoch 11/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 107.5619 - mae: 9.1916
+Epoch 11: val_loss improved from 74.97812 to 63.66173, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 75.1993 - mae: 7.4638 - val_loss: 63.6617 - val_mae: 6.8709
+Epoch 12/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 93.6719 - mae: 8.3955
+Epoch 12: val_loss improved from 63.66173 to 54.32489, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 64.0862 - mae: 6.8453 - val_loss: 54.3249 - val_mae: 6.3380
+Epoch 13/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 48.9028 - mae: 5.7137
+Epoch 13: val_loss improved from 54.32489 to 46.97594, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 54.5954 - mae: 6.2694 - val_loss: 46.9759 - val_mae: 5.8745
+Epoch 14/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 71.4792 - mae: 7.5237
+Epoch 14: val_loss improved from 46.97594 to 40.61407, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 47.5790 - mae: 5.8521 - val_loss: 40.6141 - val_mae: 5.4048
+Epoch 15/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 25.4641 - mae: 4.3269
+Epoch 15: val_loss improved from 40.61407 to 36.47828, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 41.6047 - mae: 5.4491 - val_loss: 36.4783 - val_mae: 5.0019
+Epoch 16/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 26.7921 - mae: 4.2737
+Epoch 16: val_loss improved from 36.47828 to 33.24012, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 37.5141 - mae: 5.1472 - val_loss: 33.2401 - val_mae: 4.7077
+Epoch 17/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 20.6365 - mae: 3.9210
+Epoch 17: val_loss improved from 33.24012 to 31.21935, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 34.6734 - mae: 4.9198 - val_loss: 31.2193 - val_mae: 4.5080
+Epoch 18/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 21.5001 - mae: 3.7254
+Epoch 18: val_loss improved from 31.21935 to 30.19668, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 32.7927 - mae: 4.7748 - val_loss: 30.1967 - val_mae: 4.4140
+Epoch 19/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 22.1456 - mae: 3.9659
+Epoch 19: val_loss improved from 30.19668 to 29.47826, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 31.6331 - mae: 4.6589 - val_loss: 29.4783 - val_mae: 4.3513
+Epoch 20/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 32.7876 - mae: 4.2030
+Epoch 20: val_loss improved from 29.47826 to 28.56710, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 30.6321 - mae: 4.5721 - val_loss: 28.5671 - val_mae: 4.2851
+Epoch 21/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 36.5958 - mae: 4.9369
+Epoch 21: val_loss improved from 28.56710 to 27.52577, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 29.9714 - mae: 4.5222 - val_loss: 27.5258 - val_mae: 4.2196
+Epoch 22/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 22.8881 - mae: 4.0357
+Epoch 22: val_loss improved from 27.52577 to 26.98471, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 29.3037 - mae: 4.4679 - val_loss: 26.9847 - val_mae: 4.1742
+Epoch 23/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 34.8598 - mae: 5.1183
+Epoch 23: val_loss improved from 26.98471 to 26.48899, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 28.7419 - mae: 4.4223 - val_loss: 26.4890 - val_mae: 4.1353
+Epoch 24/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 29.9577 - mae: 4.7564
+Epoch 24: val_loss improved from 26.48899 to 25.52719, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 27.9901 - mae: 4.3663 - val_loss: 25.5272 - val_mae: 4.0725
+Epoch 25/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 36.5184 - mae: 5.3477
+Epoch 25: val_loss improved from 25.52719 to 24.89279, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 12ms/step - loss: 27.4591 - mae: 4.3171 - val_loss: 24.8928 - val_mae: 4.0250
+Epoch 26/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 22.3607 - mae: 3.7258
+Epoch 26: val_loss improved from 24.89279 to 24.21353, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 26.9011 - mae: 4.2721 - val_loss: 24.2135 - val_mae: 3.9724
+Epoch 27/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 31.3041 - mae: 4.5740
+Epoch 27: val_loss improved from 24.21353 to 23.85297, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 26.3867 - mae: 4.2251 - val_loss: 23.8530 - val_mae: 3.9398
+Epoch 28/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 26.9623 - mae: 4.1065
+Epoch 28: val_loss improved from 23.85297 to 22.97392, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 25.7957 - mae: 4.1760 - val_loss: 22.9739 - val_mae: 3.8725
+Epoch 29/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 29.2209 - mae: 4.0175
+Epoch 29: val_loss improved from 22.97392 to 22.34577, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 25.3205 - mae: 4.1343 - val_loss: 22.3458 - val_mae: 3.8207
+Epoch 30/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 27.6499 - mae: 4.6428
+Epoch 30: val_loss improved from 22.34577 to 22.25788, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 24.7709 - mae: 4.0795 - val_loss: 22.2579 - val_mae: 3.8031
+Epoch 31/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 27.7834 - mae: 4.4277
+Epoch 31: val_loss improved from 22.25788 to 21.32904, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 24.2908 - mae: 4.0420 - val_loss: 21.3290 - val_mae: 3.7285
+Epoch 32/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 26.7119 - mae: 4.3721
+Epoch 32: val_loss improved from 21.32904 to 20.81246, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 23.8187 - mae: 4.0025 - val_loss: 20.8125 - val_mae: 3.6815
+Epoch 33/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 31.0065 - mae: 4.6795
+Epoch 33: val_loss improved from 20.81246 to 20.58086, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 23.4657 - mae: 3.9677 - val_loss: 20.5809 - val_mae: 3.6513
+Epoch 34/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.2933 - mae: 3.3722
+Epoch 34: val_loss improved from 20.58086 to 19.82676, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 22.8462 - mae: 3.9135 - val_loss: 19.8268 - val_mae: 3.5925
+Epoch 35/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.2893 - mae: 3.4667
+Epoch 35: val_loss improved from 19.82676 to 19.42408, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 22.4705 - mae: 3.8830 - val_loss: 19.4241 - val_mae: 3.5524
+Epoch 36/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.5421 - mae: 3.1240
+Epoch 36: val_loss improved from 19.42408 to 19.00350, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 22.0164 - mae: 3.8391 - val_loss: 19.0035 - val_mae: 3.5123
+Epoch 37/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 23.8877 - mae: 4.3073
+Epoch 37: val_loss improved from 19.00350 to 18.64843, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 21.5566 - mae: 3.7971 - val_loss: 18.6484 - val_mae: 3.4754
+Epoch 38/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.5617 - mae: 3.6105
+Epoch 38: val_loss improved from 18.64843 to 18.24399, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 21.2302 - mae: 3.7680 - val_loss: 18.2440 - val_mae: 3.4357
+Epoch 39/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.7315 - mae: 3.2913
+Epoch 39: val_loss improved from 18.24399 to 17.76565, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 11ms/step - loss: 20.8080 - mae: 3.7252 - val_loss: 17.7656 - val_mae: 3.3938
+Epoch 40/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.8200 - mae: 3.2442
+Epoch 40: val_loss improved from 17.76565 to 17.48721, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 20.4760 - mae: 3.6948 - val_loss: 17.4872 - val_mae: 3.3685
+Epoch 41/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 19.3729 - mae: 3.7609
+Epoch 41: val_loss improved from 17.48721 to 17.17241, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 20.1605 - mae: 3.6643 - val_loss: 17.1724 - val_mae: 3.3413
+Epoch 42/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 20.5144 - mae: 4.0466
+Epoch 42: val_loss improved from 17.17241 to 16.81283, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 19.6804 - mae: 3.6165 - val_loss: 16.8128 - val_mae: 3.3047
+Epoch 43/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.5485 - mae: 3.2750
+Epoch 43: val_loss improved from 16.81283 to 16.40276, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 19.3849 - mae: 3.5825 - val_loss: 16.4028 - val_mae: 3.2695
+Epoch 44/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 19.2923 - mae: 3.7994
+Epoch 44: val_loss improved from 16.40276 to 16.19539, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 19.0895 - mae: 3.5537 - val_loss: 16.1954 - val_mae: 3.2499
+Epoch 45/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.8800 - mae: 3.3483
+Epoch 45: val_loss improved from 16.19539 to 15.78207, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 18.9880 - mae: 3.5352 - val_loss: 15.7821 - val_mae: 3.2120
+Epoch 46/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.8581 - mae: 3.1334
+Epoch 46: val_loss did not improve from 15.78207
+
+10/10 [==============================] - 0s 6ms/step - loss: 18.3840 - mae: 3.4725 - val_loss: 15.8430 - val_mae: 3.2134
+Epoch 47/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 20.6620 - mae: 3.2602
+Epoch 47: val_loss improved from 15.78207 to 15.49500, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 10ms/step - loss: 18.1950 - mae: 3.4709 - val_loss: 15.4950 - val_mae: 3.1782
+Epoch 48/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 18.9978 - mae: 3.3054
+Epoch 48: val_loss improved from 15.49500 to 15.04398, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 17.9311 - mae: 3.4309 - val_loss: 15.0440 - val_mae: 3.1365
+Epoch 49/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.8070 - mae: 2.8452
+Epoch 49: val_loss improved from 15.04398 to 14.84998, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 17.5507 - mae: 3.3964 - val_loss: 14.8500 - val_mae: 3.1134
+Epoch 50/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 21.9962 - mae: 3.8300
+Epoch 50: val_loss improved from 14.84998 to 14.57519, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 17.2774 - mae: 3.3628 - val_loss: 14.5752 - val_mae: 3.0844
+Epoch 51/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 18.0305 - mae: 3.5312
+Epoch 51: val_loss improved from 14.57519 to 14.38155, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 17.0181 - mae: 3.3390 - val_loss: 14.3815 - val_mae: 3.0605
+Epoch 52/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 26.6637 - mae: 4.0236
+Epoch 52: val_loss improved from 14.38155 to 14.22400, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 16.7586 - mae: 3.3105 - val_loss: 14.2240 - val_mae: 3.0373
+Epoch 53/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.5892 - mae: 2.9990
+Epoch 53: val_loss improved from 14.22400 to 13.99145, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 16.5419 - mae: 3.2815 - val_loss: 13.9914 - val_mae: 3.0093
+Epoch 54/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.3059 - mae: 2.6470
+Epoch 54: val_loss improved from 13.99145 to 13.79165, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 16.3672 - mae: 3.2628 - val_loss: 13.7916 - val_mae: 2.9846
+Epoch 55/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 23.6489 - mae: 4.1231
+Epoch 55: val_loss improved from 13.79165 to 13.63890, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 16.1026 - mae: 3.2371 - val_loss: 13.6389 - val_mae: 2.9734
+Epoch 56/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.5211 - mae: 3.3656
+Epoch 56: val_loss improved from 13.63890 to 13.44983, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 15.8931 - mae: 3.2147 - val_loss: 13.4498 - val_mae: 2.9432
+Epoch 57/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.0058 - mae: 3.1420
+Epoch 57: val_loss improved from 13.44983 to 13.36955, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 15.7330 - mae: 3.1918 - val_loss: 13.3696 - val_mae: 2.9342
+Epoch 58/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.6593 - mae: 3.1422
+Epoch 58: val_loss did not improve from 13.36955
+
+10/10 [==============================] - 0s 5ms/step - loss: 15.5687 - mae: 3.1747 - val_loss: 13.4004 - val_mae: 2.9355
+Epoch 59/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.9833 - mae: 3.5154
+Epoch 59: val_loss improved from 13.36955 to 13.01116, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 15.3241 - mae: 3.1458 - val_loss: 13.0112 - val_mae: 2.8922
+Epoch 60/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.6790 - mae: 3.5483
+Epoch 60: val_loss improved from 13.01116 to 12.81407, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 15.1321 - mae: 3.1241 - val_loss: 12.8141 - val_mae: 2.8709
+Epoch 61/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.6037 - mae: 3.1985
+Epoch 61: val_loss improved from 12.81407 to 12.74536, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 15.0886 - mae: 3.1120 - val_loss: 12.7454 - val_mae: 2.8648
+Epoch 62/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.5919 - mae: 2.7264
+Epoch 62: val_loss improved from 12.74536 to 12.68790, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 14.7888 - mae: 3.0832 - val_loss: 12.6879 - val_mae: 2.8550
+Epoch 63/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.4275 - mae: 2.7230
+Epoch 63: val_loss improved from 12.68790 to 12.51271, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 14.6218 - mae: 3.0587 - val_loss: 12.5127 - val_mae: 2.8339
+Epoch 64/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.7069 - mae: 3.0728
+Epoch 64: val_loss improved from 12.51271 to 12.42334, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 14.5296 - mae: 3.0492 - val_loss: 12.4233 - val_mae: 2.8269
+Epoch 65/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.3661 - mae: 3.0982
+Epoch 65: val_loss improved from 12.42334 to 12.30164, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 14.4163 - mae: 3.0413 - val_loss: 12.3016 - val_mae: 2.8064
+Epoch 66/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.5039 - mae: 3.0503
+Epoch 66: val_loss improved from 12.30164 to 12.15782, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 14.1530 - mae: 3.0055 - val_loss: 12.1578 - val_mae: 2.7942
+Epoch 67/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.3597 - mae: 3.0201
+Epoch 67: val_loss improved from 12.15782 to 12.10476, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 14.0909 - mae: 2.9990 - val_loss: 12.1048 - val_mae: 2.7823
+Epoch 68/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 18.4729 - mae: 3.2991
+Epoch 68: val_loss improved from 12.10476 to 12.03549, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 13.9595 - mae: 2.9789 - val_loss: 12.0355 - val_mae: 2.7704
+Epoch 69/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.2519 - mae: 3.0721
+Epoch 69: val_loss improved from 12.03549 to 11.94937, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 13.9164 - mae: 2.9765 - val_loss: 11.9494 - val_mae: 2.7679
+Epoch 70/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.8209 - mae: 3.0073
+Epoch 70: val_loss improved from 11.94937 to 11.88538, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 13.7622 - mae: 2.9559 - val_loss: 11.8854 - val_mae: 2.7352
+Epoch 71/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.3999 - mae: 2.8090
+Epoch 71: val_loss improved from 11.88538 to 11.80303, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 13.6659 - mae: 2.9435 - val_loss: 11.8030 - val_mae: 2.7396
+Epoch 72/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.0866 - mae: 2.6021
+Epoch 72: val_loss improved from 11.80303 to 11.74700, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 13.6147 - mae: 2.9325 - val_loss: 11.7470 - val_mae: 2.7342
+Epoch 73/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.9282 - mae: 2.8212
+Epoch 73: val_loss did not improve from 11.74700
+
+10/10 [==============================] - 0s 5ms/step - loss: 13.5806 - mae: 2.9331 - val_loss: 11.7963 - val_mae: 2.7095
+Epoch 74/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.2009 - mae: 2.7054
+Epoch 74: val_loss improved from 11.74700 to 11.70992, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 13.3029 - mae: 2.8909 - val_loss: 11.7099 - val_mae: 2.7233
+Epoch 75/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.0276 - mae: 3.1550
+Epoch 75: val_loss improved from 11.70992 to 11.55328, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 13.3441 - mae: 2.8923 - val_loss: 11.5533 - val_mae: 2.6942
+Epoch 76/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.6856 - mae: 2.7713
+Epoch 76: val_loss improved from 11.55328 to 11.41109, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 13.2128 - mae: 2.8729 - val_loss: 11.4111 - val_mae: 2.6780
+Epoch 77/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.4619 - mae: 3.1812
+Epoch 77: val_loss did not improve from 11.41109
+
+10/10 [==============================] - 0s 6ms/step - loss: 13.1902 - mae: 2.8743 - val_loss: 11.5260 - val_mae: 2.6770
+Epoch 78/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.1649 - mae: 2.4229
+Epoch 78: val_loss improved from 11.41109 to 11.34018, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 13.0825 - mae: 2.8581 - val_loss: 11.3402 - val_mae: 2.6637
+Epoch 79/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.9308 - mae: 2.3294
+Epoch 79: val_loss improved from 11.34018 to 11.33636, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 13.0246 - mae: 2.8457 - val_loss: 11.3364 - val_mae: 2.6474
+Epoch 80/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.2525 - mae: 2.6050
+Epoch 80: val_loss improved from 11.33636 to 11.31416, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 7ms/step - loss: 12.9453 - mae: 2.8343 - val_loss: 11.3142 - val_mae: 2.6489
+Epoch 81/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.3908 - mae: 2.7481
+Epoch 81: val_loss did not improve from 11.31416
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.9462 - mae: 2.8322 - val_loss: 11.3735 - val_mae: 2.6487
+Epoch 82/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.0238 - mae: 2.5921
+Epoch 82: val_loss improved from 11.31416 to 11.15452, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 10ms/step - loss: 12.8716 - mae: 2.8203 - val_loss: 11.1545 - val_mae: 2.6214
+Epoch 83/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.7428 - mae: 2.7357
+Epoch 83: val_loss did not improve from 11.15452
+
+10/10 [==============================] - 0s 7ms/step - loss: 12.8906 - mae: 2.8259 - val_loss: 11.1565 - val_mae: 2.6159
+Epoch 84/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.5050 - mae: 2.4713
+Epoch 84: val_loss did not improve from 11.15452
+
+10/10 [==============================] - 0s 8ms/step - loss: 12.9087 - mae: 2.8101 - val_loss: 11.1976 - val_mae: 2.6223
+Epoch 85/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.7091 - mae: 2.4161
+Epoch 85: val_loss did not improve from 11.15452
+
+10/10 [==============================] - 0s 7ms/step - loss: 12.7002 - mae: 2.7902 - val_loss: 11.1985 - val_mae: 2.6136
+Epoch 86/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 18.6542 - mae: 3.4780
+Epoch 86: val_loss improved from 11.15452 to 11.09321, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 21ms/step - loss: 12.7199 - mae: 2.7922 - val_loss: 11.0932 - val_mae: 2.6019
+Epoch 87/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.0968 - mae: 2.7125
+Epoch 87: val_loss did not improve from 11.09321
+
+10/10 [==============================] - 0s 7ms/step - loss: 12.6964 - mae: 2.7858 - val_loss: 11.2263 - val_mae: 2.6124
+Epoch 88/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.5997 - mae: 2.1250
+Epoch 88: val_loss improved from 11.09321 to 10.97401, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 13ms/step - loss: 12.7165 - mae: 2.7864 - val_loss: 10.9740 - val_mae: 2.5844
+Epoch 89/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.3523 - mae: 2.4758
+Epoch 89: val_loss improved from 10.97401 to 10.94933, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 11ms/step - loss: 12.5737 - mae: 2.7610 - val_loss: 10.9493 - val_mae: 2.5741
+Epoch 90/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.7431 - mae: 2.6197
+Epoch 90: val_loss improved from 10.94933 to 10.90017, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 15ms/step - loss: 12.6323 - mae: 2.7730 - val_loss: 10.9002 - val_mae: 2.5670
+Epoch 91/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.2835 - mae: 2.3730
+Epoch 91: val_loss did not improve from 10.90017
+
+10/10 [==============================] - 0s 7ms/step - loss: 12.5445 - mae: 2.7586 - val_loss: 11.0718 - val_mae: 2.5888
+Epoch 92/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.3242 - mae: 3.0077
+Epoch 92: val_loss did not improve from 10.90017
+
+10/10 [==============================] - 0s 6ms/step - loss: 12.5035 - mae: 2.7593 - val_loss: 11.0618 - val_mae: 2.5770
+Epoch 93/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.8907 - mae: 2.4895
+Epoch 93: val_loss did not improve from 10.90017
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.5523 - mae: 2.7542 - val_loss: 11.1315 - val_mae: 2.5911
+Epoch 94/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.0020 - mae: 3.2433
+Epoch 94: val_loss did not improve from 10.90017
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.4566 - mae: 2.7447 - val_loss: 11.0668 - val_mae: 2.5775
+Epoch 95/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.9023 - mae: 2.3383
+Epoch 95: val_loss did not improve from 10.90017
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.5168 - mae: 2.7486 - val_loss: 10.9975 - val_mae: 2.5696
+Epoch 96/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.7450 - mae: 2.2559
+Epoch 96: val_loss did not improve from 10.90017
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.5524 - mae: 2.7554 - val_loss: 10.9156 - val_mae: 2.5552
+Epoch 97/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.1342 - mae: 2.7171
+Epoch 97: val_loss improved from 10.90017 to 10.84447, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 12.4705 - mae: 2.7362 - val_loss: 10.8445 - val_mae: 2.5470
+Epoch 98/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.3964 - mae: 2.9134
+Epoch 98: val_loss did not improve from 10.84447
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3922 - mae: 2.7247 - val_loss: 10.8602 - val_mae: 2.5451
+Epoch 99/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.8658 - mae: 2.5447
+Epoch 99: val_loss improved from 10.84447 to 10.76784, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 12.3897 - mae: 2.7295 - val_loss: 10.7678 - val_mae: 2.5316
+Epoch 100/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.9873 - mae: 3.2487
+Epoch 100: val_loss did not improve from 10.76784
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3837 - mae: 2.7254 - val_loss: 10.8785 - val_mae: 2.5491
+Epoch 101/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.1322 - mae: 3.1436
+Epoch 101: val_loss did not improve from 10.76784
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.4183 - mae: 2.7297 - val_loss: 10.8731 - val_mae: 2.5421
+Epoch 102/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.6671 - mae: 2.3528
+Epoch 102: val_loss improved from 10.76784 to 10.75633, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 12.5176 - mae: 2.7400 - val_loss: 10.7563 - val_mae: 2.5397
+Epoch 103/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.8037 - mae: 2.7481
+Epoch 103: val_loss did not improve from 10.75633
+
+10/10 [==============================] - 0s 6ms/step - loss: 12.6410 - mae: 2.7387 - val_loss: 10.8863 - val_mae: 2.5417
+Epoch 104/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.1651 - mae: 2.7396
+Epoch 104: val_loss did not improve from 10.75633
+
+10/10 [==============================] - 0s 6ms/step - loss: 12.6747 - mae: 2.7669 - val_loss: 10.8397 - val_mae: 2.5482
+Epoch 105/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.3418 - mae: 2.7682
+Epoch 105: val_loss improved from 10.75633 to 10.74855, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 10ms/step - loss: 12.4165 - mae: 2.7430 - val_loss: 10.7485 - val_mae: 2.5222
+Epoch 106/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.3815 - mae: 2.5373
+Epoch 106: val_loss did not improve from 10.74855
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3043 - mae: 2.7095 - val_loss: 10.7509 - val_mae: 2.5333
+Epoch 107/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 19.0885 - mae: 3.4433
+Epoch 107: val_loss did not improve from 10.74855
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2968 - mae: 2.7149 - val_loss: 10.7779 - val_mae: 2.5285
+Epoch 108/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 5.7969 - mae: 1.9903
+Epoch 108: val_loss did not improve from 10.74855
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3020 - mae: 2.7079 - val_loss: 10.9115 - val_mae: 2.5512
+Epoch 109/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.1876 - mae: 3.0229
+Epoch 109: val_loss did not improve from 10.74855
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3968 - mae: 2.7275 - val_loss: 10.8811 - val_mae: 2.5446
+Epoch 110/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.2365 - mae: 2.3693
+Epoch 110: val_loss improved from 10.74855 to 10.70186, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 12.2788 - mae: 2.7050 - val_loss: 10.7019 - val_mae: 2.5176
+Epoch 111/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.9326 - mae: 2.2811
+Epoch 111: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3495 - mae: 2.7220 - val_loss: 10.7880 - val_mae: 2.5276
+Epoch 112/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.5014 - mae: 2.6527
+Epoch 112: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.5835 - mae: 2.7346 - val_loss: 10.7712 - val_mae: 2.5470
+Epoch 113/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.2492 - mae: 2.4841
+Epoch 113: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 6ms/step - loss: 12.2041 - mae: 2.6962 - val_loss: 10.8898 - val_mae: 2.5466
+Epoch 114/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.8521 - mae: 3.0694
+Epoch 114: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2254 - mae: 2.7044 - val_loss: 10.7734 - val_mae: 2.5329
+Epoch 115/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.3703 - mae: 2.7541
+Epoch 115: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2382 - mae: 2.6956 - val_loss: 10.7213 - val_mae: 2.5176
+Epoch 116/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.3686 - mae: 2.8493
+Epoch 116: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2810 - mae: 2.7032 - val_loss: 10.7168 - val_mae: 2.5189
+Epoch 117/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.3720 - mae: 2.2600
+Epoch 117: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3953 - mae: 2.7033 - val_loss: 10.7784 - val_mae: 2.5281
+Epoch 118/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.6660 - mae: 2.9074
+Epoch 118: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.4085 - mae: 2.7207 - val_loss: 10.8203 - val_mae: 2.5439
+Epoch 119/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.9219 - mae: 2.5544
+Epoch 119: val_loss did not improve from 10.70186
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3845 - mae: 2.7255 - val_loss: 10.8631 - val_mae: 2.5496
+Epoch 120/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.3800 - mae: 2.4256
+Epoch 120: val_loss improved from 10.70186 to 10.58912, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 12.3041 - mae: 2.6871 - val_loss: 10.5891 - val_mae: 2.5258
+Epoch 121/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.8147 - mae: 2.9952
+Epoch 121: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3396 - mae: 2.7093 - val_loss: 10.7759 - val_mae: 2.5291
+Epoch 122/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.1706 - mae: 2.9660
+Epoch 122: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1848 - mae: 2.6895 - val_loss: 10.7266 - val_mae: 2.5297
+Epoch 123/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.7979 - mae: 2.5516
+Epoch 123: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1933 - mae: 2.6916 - val_loss: 10.7645 - val_mae: 2.5292
+Epoch 124/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.8316 - mae: 2.3912
+Epoch 124: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3758 - mae: 2.7190 - val_loss: 10.6249 - val_mae: 2.5087
+Epoch 125/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.8284 - mae: 3.1416
+Epoch 125: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1516 - mae: 2.6814 - val_loss: 10.6771 - val_mae: 2.5201
+Epoch 126/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.6992 - mae: 2.5722
+Epoch 126: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2175 - mae: 2.6915 - val_loss: 10.6890 - val_mae: 2.5181
+Epoch 127/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.3321 - mae: 2.4541
+Epoch 127: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1488 - mae: 2.6833 - val_loss: 10.7488 - val_mae: 2.5326
+Epoch 128/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.6138 - mae: 2.1044
+Epoch 128: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2316 - mae: 2.7037 - val_loss: 10.6907 - val_mae: 2.5211
+Epoch 129/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.5401 - mae: 2.4896
+Epoch 129: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2188 - mae: 2.6937 - val_loss: 10.6992 - val_mae: 2.5229
+Epoch 130/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.5755 - mae: 2.9146
+Epoch 130: val_loss did not improve from 10.58912
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3590 - mae: 2.7045 - val_loss: 10.6377 - val_mae: 2.5138
+Epoch 131/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.5836 - mae: 2.6980
+Epoch 131: val_loss improved from 10.58912 to 10.56853, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 9ms/step - loss: 12.7548 - mae: 2.7782 - val_loss: 10.5685 - val_mae: 2.5072
+Epoch 132/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.8018 - mae: 3.0528
+Epoch 132: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3300 - mae: 2.7109 - val_loss: 10.6197 - val_mae: 2.5151
+Epoch 133/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.9909 - mae: 2.8201
+Epoch 133: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1937 - mae: 2.6930 - val_loss: 10.6008 - val_mae: 2.5061
+Epoch 134/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.9408 - mae: 2.6026
+Epoch 134: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1516 - mae: 2.6846 - val_loss: 10.8129 - val_mae: 2.5463
+Epoch 135/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.0853 - mae: 2.9465
+Epoch 135: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2079 - mae: 2.6995 - val_loss: 10.6944 - val_mae: 2.5264
+Epoch 136/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.7360 - mae: 3.1212
+Epoch 136: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1350 - mae: 2.6829 - val_loss: 10.6396 - val_mae: 2.5200
+Epoch 137/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.7005 - mae: 2.1304
+Epoch 137: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1262 - mae: 2.6793 - val_loss: 10.5703 - val_mae: 2.5013
+Epoch 138/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 23.1644 - mae: 3.6977
+Epoch 138: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.3067 - mae: 2.6933 - val_loss: 10.8236 - val_mae: 2.5575
+Epoch 139/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.9145 - mae: 2.9405
+Epoch 139: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1865 - mae: 2.6872 - val_loss: 10.6266 - val_mae: 2.5165
+Epoch 140/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.4495 - mae: 2.1858
+Epoch 140: val_loss did not improve from 10.56853
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2206 - mae: 2.6955 - val_loss: 10.5854 - val_mae: 2.5065
+Epoch 141/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.9342 - mae: 2.7677
+Epoch 141: val_loss improved from 10.56853 to 10.54353, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 12.0988 - mae: 2.6769 - val_loss: 10.5435 - val_mae: 2.5096
+Epoch 142/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.0440 - mae: 2.8336
+Epoch 142: val_loss did not improve from 10.54353
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2052 - mae: 2.6890 - val_loss: 10.5975 - val_mae: 2.5093
+Epoch 143/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.9345 - mae: 2.1352
+Epoch 143: val_loss did not improve from 10.54353
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2926 - mae: 2.7111 - val_loss: 10.6817 - val_mae: 2.5281
+Epoch 144/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.5885 - mae: 2.9654
+Epoch 144: val_loss improved from 10.54353 to 10.52142, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 12.1166 - mae: 2.6811 - val_loss: 10.5214 - val_mae: 2.5092
+Epoch 145/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.4819 - mae: 3.0911
+Epoch 145: val_loss did not improve from 10.52142
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2208 - mae: 2.6946 - val_loss: 10.5957 - val_mae: 2.5140
+Epoch 146/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.6908 - mae: 3.4295
+Epoch 146: val_loss did not improve from 10.52142
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.0783 - mae: 2.6736 - val_loss: 10.6934 - val_mae: 2.5281
+Epoch 147/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.2646 - mae: 2.9186
+Epoch 147: val_loss did not improve from 10.52142
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.2241 - mae: 2.6983 - val_loss: 10.7403 - val_mae: 2.5375
+Epoch 148/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.9283 - mae: 2.3237
+Epoch 148: val_loss did not improve from 10.52142
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1645 - mae: 2.6896 - val_loss: 10.5643 - val_mae: 2.5127
+Epoch 149/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.4107 - mae: 2.1493
+Epoch 149: val_loss improved from 10.52142 to 10.48574, saving model to src/saved_weights\best_model.h5
+
+10/10 [==============================] - 0s 8ms/step - loss: 12.1324 - mae: 2.6731 - val_loss: 10.4857 - val_mae: 2.4907
+Epoch 150/150
+
+ 1/10 [==>...........................] - ETA: 0s - loss: 5.1994 - mae: 1.8237
+Epoch 150: val_loss did not improve from 10.48574
+
+10/10 [==============================] - 0s 5ms/step - loss: 12.1772 - mae: 2.6865 - val_loss: 10.5413 - val_mae: 2.5090
