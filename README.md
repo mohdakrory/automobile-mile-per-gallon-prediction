@@ -83,7 +83,7 @@ Automobile mile per gallon prediction
 
 1. **Clone or download the project**
    ```powershell
-   cd "d:\courses\Data Science & AI\Projects\DL Practice\Automobile mile per gallon prediction"
+   https://github.com/mohdakrory/automobile-mile-per-gallon-prediction-.git
    ```
 
 2. **Create a virtual environment (recommended)**
@@ -349,3 +349,4 @@ The neural network consists of:
 
 
 MIT License
+
