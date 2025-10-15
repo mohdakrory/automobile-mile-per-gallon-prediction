@@ -27,6 +27,7 @@ Automobile mile per gallon prediction
 │  │  └─ train_test_data.pkl
 │  └─ raw
 │     └─ auto-mpg.csv
+├─ data_description_visualization.md
 ├─ LICENSE
 ├─ notebooks
 │  ├─ automobile-mile-per-gallon-prediction.ipynb
@@ -345,5 +346,6 @@ The neural network consists of:
 - **Visualization**: Training curves and performance plots
 
 ## License
+
 
 MIT License
