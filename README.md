@@ -11,6 +11,16 @@ The project provides multiple interfaces for interaction:
 - **REST API** for real-time predictions via HTTP requests
 - **Python Module** for programmatic integration
 
+## Features
+
+- **Data Preprocessing**: Handles missing values, one-hot encoding, and feature scaling
+- **Model Training**: Automatic checkpoint saving for best model
+- **Model Evaluation**: Comprehensive metrics (MSE, RMSE, MAE, MAPE, R²)
+- **CLI Interface**: Easy-to-use command-line tools for all operations
+- **REST API**: Production-ready FastAPI server with async support
+- **Logging**: Comprehensive logging for debugging and monitoring
+- **Visualization**: Training curves and performance plots
+
 ## Project Structure
 
 ```
@@ -83,7 +93,7 @@ Automobile mile per gallon prediction
 
 1. **Clone or download the project**
    ```powershell
-   https://github.com/mohdakrory/automobile-mile-per-gallon-prediction-.git
+   cd "d:\courses\Data Science & AI\Projects\DL Practice\Automobile mile per gallon prediction"
    ```
 
 2. **Create a virtual environment (recommended)**
@@ -335,18 +345,6 @@ The neural network consists of:
 **Loss Function:** Mean Squared Error (MSE)  
 **Metrics:** Mean Absolute Error (MAE)
 
-## Features
-
-- **Data Preprocessing**: Handles missing values, one-hot encoding, and feature scaling
-- **Model Training**: Automatic checkpoint saving for best model
-- **Model Evaluation**: Comprehensive metrics (MSE, RMSE, MAE, MAPE, R²)
-- **CLI Interface**: Easy-to-use command-line tools for all operations
-- **REST API**: Production-ready FastAPI server with async support
-- **Logging**: Comprehensive logging for debugging and monitoring
-- **Visualization**: Training curves and performance plots
-
 ## License
 
-
 MIT License
-
