@@ -93,7 +93,7 @@ Automobile mile per gallon prediction
 
 1. **Clone or download the project**
    ```powershell
-   https://github.com/mohdakrory/automobile-mile-per-gallon-prediction.git
+   git clone https://github.com/mohdakrory/automobile-mile-per-gallon-prediction.git
    ```
 
 2. **Create a virtual environment (recommended)**
@@ -103,7 +103,7 @@ Automobile mile per gallon prediction
    ```
 
 3. **Install required dependencies**
-  install from requirements file:
+  Install from requirements file:
    ```powershell
    pip install -r requirements.txt
    ```
@@ -184,10 +184,7 @@ python cli/project_cli.py --task predict --cylinders 8 --displacement 307.0 --ho
 
 **Example:**
 ```powershell
-# Predict MPG for a 1970 American muscle car
 python cli/project_cli.py --task predict --cylinders 8 --displacement 307.0 --horsepower 130.0 --weight 3504 --acceleration 12.0 --model_year 70 --origin USA
-
-# Output: Predicted MPG: 18.45
 ```
 
 ## How to Invoke the API
@@ -345,7 +342,10 @@ The neural network consists of:
 **Loss Function:** Mean Squared Error (MSE)  
 **Metrics:** Mean Absolute Error (MAE)
 
+![model](https://github.com/user-attachments/assets/28586d6c-454e-4d19-a7f3-813922ca9c1a)
+
 ## License
 
 MIT License
+
 
