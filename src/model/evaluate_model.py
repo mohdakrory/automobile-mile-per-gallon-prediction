@@ -5,12 +5,20 @@ from pickle import load
 import json
 import sys
 from pathlib import Path
+import yaml
 
 project_root = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(project_root))
 
-def load_test_data(data_path='data/processed/train_test_data.pkl'):
+# Load configuration
+config_path = project_root / 'config.yaml'
+with open(config_path, 'r') as file:
+    config = yaml.safe_load(file)
+
+def load_test_data(data_path=None):
     """Load test data from pickle file."""
+    if data_path is None:
+        data_path = str(project_root) + config['processed_data_path']
     with open(data_path, 'rb') as file:
         data = load(file)
         x_test = data['x_test']
@@ -31,16 +39,18 @@ def calculate_metrics(y_true, y_pred):
     return metrics
 
 
-def save_metrics_to_json(metrics, output_path='results/metrics.json'):
+def save_metrics_to_json(metrics, output_path=None):
     """Save metrics to JSON file."""
+    if output_path is None:
+        output_path = str(project_root) + config['training_artifacts_path'] + '/metrics.json'
     with open(output_path, 'w') as f:
         json.dump(metrics, f, indent=4)
     print(f"Metrics saved to {output_path}")
 
 
-def evaluate(model_path='src/saved_weights/best_model.h5', 
-             data_path='data/processed/train_test_data.pkl',
-             output_path='src/model/training_artifacts/metrics.json'):
+def evaluate(model_path=None, 
+             data_path=None,
+             output_path=None):
     """
     Complete evaluation pipeline: load model, load data, calculate metrics, save to JSON.
     
@@ -57,6 +67,14 @@ def evaluate(model_path='src/saved_weights/best_model.h5',
     --------
     dict : Dictionary containing all calculated metrics
     """
+    # Use config values if not provided
+    if model_path is None:
+        model_path = str(project_root) + config['saved_weights_path'] + '/best_model.h5'
+    if data_path is None:
+        data_path = str(project_root) + config['processed_data_path']
+    if output_path is None:
+        output_path = str(project_root) + config['training_artifacts_path'] + '/metrics.json'
+    
     # Load model
     model = load_model(model_path)
     

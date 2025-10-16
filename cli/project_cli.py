@@ -1,9 +1,15 @@
 import argparse
 import sys
 from pathlib import Path
+import yaml
 
 project_root = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(project_root))
+
+# Load configuration
+config_path = project_root / 'config.yaml'
+with open(config_path, 'r') as file:
+    config = yaml.safe_load(file)
 
 parser = argparse.ArgumentParser(description="Main code for processing data, building, training, and evaluating a model for automobile mile per galon prediction")
 
@@ -73,9 +79,13 @@ elif task == 'predict':
     
     from src.model.predict import MPGPredictor
     
+    # Construct paths from config
+    model_path = str(project_root) + config['saved_weights_path'] + '/best_model.h5'
+    scaler_path = str(project_root) + config['saved_weights_path'] + '/x_scaler.pkl'
+    
     predictor = MPGPredictor(
-        model_path='src/saved_weights/best_model.h5',
-        scaler_path='src/saved_weights/x_scaler.pkl'
+        model_path=model_path,
+        scaler_path=scaler_path
     )
     
     mpg = predictor.predict(

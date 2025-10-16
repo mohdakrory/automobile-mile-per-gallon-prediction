@@ -1,900 +1,900 @@
 Epoch 1/150
 
- 1/10 [==>...........................] - ETA: 5s - loss: 693.7683 - mae: 24.8751
-Epoch 1: val_loss improved from inf to 527.81689, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 5s - loss: 620.0577 - mae: 23.4031
+Epoch 1: val_loss improved from inf to 521.89948, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 1s 27ms/step - loss: 605.7026 - mae: 23.3295 - val_loss: 527.8169 - val_mae: 21.8422
+10/10 [==============================] - 1s 27ms/step - loss: 597.3577 - mae: 23.0691 - val_loss: 521.8995 - val_mae: 21.6350
 Epoch 2/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 482.8345 - mae: 20.9888
-Epoch 2: val_loss improved from 527.81689 to 464.02155, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 528.7691 - mae: 21.2589
+Epoch 2: val_loss improved from 521.89948 to 462.81146, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 539.0206 - mae: 21.7883 - val_loss: 464.0215 - val_mae: 20.2523
+10/10 [==============================] - 0s 8ms/step - loss: 537.4190 - mae: 21.6812 - val_loss: 462.8115 - val_mae: 20.1336
 Epoch 3/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 409.9445 - mae: 18.8643
-Epoch 3: val_loss improved from 464.02155 to 386.09445, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 371.9799 - mae: 17.6872
+Epoch 3: val_loss improved from 462.81146 to 387.67700, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 461.9470 - mae: 19.8519 - val_loss: 386.0945 - val_mae: 18.0824
+10/10 [==============================] - 0s 8ms/step - loss: 465.9278 - mae: 19.8542 - val_loss: 387.6770 - val_mae: 18.0180
 Epoch 4/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 420.9385 - mae: 18.2363
-Epoch 4: val_loss improved from 386.09445 to 294.05164, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 417.4895 - mae: 19.2139
+Epoch 4: val_loss improved from 387.67700 to 297.44238, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 368.9658 - mae: 17.1482 - val_loss: 294.0516 - val_mae: 15.0392
+10/10 [==============================] - 0s 8ms/step - loss: 377.0084 - mae: 17.2258 - val_loss: 297.4424 - val_mae: 15.0233
 Epoch 5/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 305.2554 - mae: 14.6174
-Epoch 5: val_loss improved from 294.05164 to 202.54268, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 270.6010 - mae: 14.2468
+Epoch 5: val_loss improved from 297.44238 to 207.35263, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 267.5237 - mae: 13.6233 - val_loss: 202.5427 - val_mae: 11.8219
+10/10 [==============================] - 0s 8ms/step - loss: 276.3939 - mae: 13.8176 - val_loss: 207.3526 - val_mae: 12.0090
 Epoch 6/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 212.7174 - mae: 11.9908
-Epoch 6: val_loss improved from 202.54268 to 139.77118, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 213.1106 - mae: 12.2578
+Epoch 6: val_loss improved from 207.35263 to 144.21172, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 179.5445 - mae: 10.8436 - val_loss: 139.7712 - val_mae: 10.1820
+10/10 [==============================] - 0s 8ms/step - loss: 190.8532 - mae: 11.2186 - val_loss: 144.2117 - val_mae: 10.3135
 Epoch 7/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 161.5090 - mae: 10.6002
-Epoch 7: val_loss improved from 139.77118 to 115.04613, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 142.1744 - mae: 9.3092
+Epoch 7: val_loss improved from 144.21172 to 119.05347, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 137.0328 - mae: 10.0571 - val_loss: 115.0461 - val_mae: 9.5665
+10/10 [==============================] - 0s 8ms/step - loss: 141.4760 - mae: 10.2397 - val_loss: 119.0535 - val_mae: 9.6397
 Epoch 8/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 110.0998 - mae: 9.2600
-Epoch 8: val_loss improved from 115.04613 to 101.51017, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 155.9896 - mae: 11.0069
+Epoch 8: val_loss improved from 119.05347 to 102.89670, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 115.7529 - mae: 9.4980 - val_loss: 101.5102 - val_mae: 8.9605
+10/10 [==============================] - 0s 8ms/step - loss: 121.9824 - mae: 9.6688 - val_loss: 102.8967 - val_mae: 8.9392
 Epoch 9/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 131.1261 - mae: 10.6438
-Epoch 9: val_loss improved from 101.51017 to 87.07966, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 100.7607 - mae: 8.2602
+Epoch 9: val_loss improved from 102.89670 to 85.90663, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 101.6171 - mae: 8.8704 - val_loss: 87.0797 - val_mae: 8.2224
+10/10 [==============================] - 0s 8ms/step - loss: 104.6291 - mae: 8.9396 - val_loss: 85.9066 - val_mae: 8.1021
 Epoch 10/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 86.4944 - mae: 8.0313
-Epoch 10: val_loss improved from 87.07966 to 74.97812, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 93.4525 - mae: 8.0737
+Epoch 10: val_loss improved from 85.90663 to 71.51667, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 87.0026 - mae: 8.1239 - val_loss: 74.9781 - val_mae: 7.5116
+10/10 [==============================] - 0s 8ms/step - loss: 87.6661 - mae: 8.0991 - val_loss: 71.5167 - val_mae: 7.2937
 Epoch 11/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 107.5619 - mae: 9.1916
-Epoch 11: val_loss improved from 74.97812 to 63.66173, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 86.6281 - mae: 8.4203
+Epoch 11: val_loss improved from 71.51667 to 59.23345, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 75.1993 - mae: 7.4638 - val_loss: 63.6617 - val_mae: 6.8709
+10/10 [==============================] - 0s 8ms/step - loss: 73.2879 - mae: 7.3102 - val_loss: 59.2334 - val_mae: 6.5509
 Epoch 12/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 93.6719 - mae: 8.3955
-Epoch 12: val_loss improved from 63.66173 to 54.32489, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 56.8714 - mae: 6.0552
+Epoch 12: val_loss improved from 59.23345 to 48.04931, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 64.0862 - mae: 6.8453 - val_loss: 54.3249 - val_mae: 6.3380
+10/10 [==============================] - 0s 8ms/step - loss: 60.9990 - mae: 6.6227 - val_loss: 48.0493 - val_mae: 5.9169
 Epoch 13/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 48.9028 - mae: 5.7137
-Epoch 13: val_loss improved from 54.32489 to 46.97594, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 53.8639 - mae: 6.5035
+Epoch 13: val_loss improved from 48.04931 to 39.79382, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 54.5954 - mae: 6.2694 - val_loss: 46.9759 - val_mae: 5.8745
+10/10 [==============================] - 0s 7ms/step - loss: 50.6274 - mae: 6.0472 - val_loss: 39.7938 - val_mae: 5.3798
 Epoch 14/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 71.4792 - mae: 7.5237
-Epoch 14: val_loss improved from 46.97594 to 40.61407, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 44.1556 - mae: 5.7837
+Epoch 14: val_loss improved from 39.79382 to 34.05421, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 47.5790 - mae: 5.8521 - val_loss: 40.6141 - val_mae: 5.4048
+10/10 [==============================] - 0s 7ms/step - loss: 42.9968 - mae: 5.5659 - val_loss: 34.0542 - val_mae: 4.9065
 Epoch 15/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 25.4641 - mae: 4.3269
-Epoch 15: val_loss improved from 40.61407 to 36.47828, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 37.8183 - mae: 5.1113
+Epoch 15: val_loss improved from 34.05421 to 31.04113, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 41.6047 - mae: 5.4491 - val_loss: 36.4783 - val_mae: 5.0019
+10/10 [==============================] - 0s 8ms/step - loss: 37.2523 - mae: 5.1181 - val_loss: 31.0411 - val_mae: 4.5594
 Epoch 16/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 26.7921 - mae: 4.2737
-Epoch 16: val_loss improved from 36.47828 to 33.24012, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 38.9537 - mae: 5.4618
+Epoch 16: val_loss improved from 31.04113 to 28.56186, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 37.5141 - mae: 5.1472 - val_loss: 33.2401 - val_mae: 4.7077
+10/10 [==============================] - 0s 8ms/step - loss: 34.0008 - mae: 4.8619 - val_loss: 28.5619 - val_mae: 4.3540
 Epoch 17/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 20.6365 - mae: 3.9210
-Epoch 17: val_loss improved from 33.24012 to 31.21935, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 37.9530 - mae: 5.1920
+Epoch 17: val_loss improved from 28.56186 to 27.24254, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 34.6734 - mae: 4.9198 - val_loss: 31.2193 - val_mae: 4.5080
+10/10 [==============================] - 0s 9ms/step - loss: 31.7750 - mae: 4.6788 - val_loss: 27.2425 - val_mae: 4.2493
 Epoch 18/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 21.5001 - mae: 3.7254
-Epoch 18: val_loss improved from 31.21935 to 30.19668, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 27.4532 - mae: 4.5251
+Epoch 18: val_loss improved from 27.24254 to 26.72555, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 32.7927 - mae: 4.7748 - val_loss: 30.1967 - val_mae: 4.4140
+10/10 [==============================] - 0s 8ms/step - loss: 30.6761 - mae: 4.5785 - val_loss: 26.7255 - val_mae: 4.1964
 Epoch 19/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 22.1456 - mae: 3.9659
-Epoch 19: val_loss improved from 30.19668 to 29.47826, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 24.0370 - mae: 4.3650
+Epoch 19: val_loss improved from 26.72555 to 26.34596, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 31.6331 - mae: 4.6589 - val_loss: 29.4783 - val_mae: 4.3513
+10/10 [==============================] - 0s 8ms/step - loss: 29.9076 - mae: 4.4892 - val_loss: 26.3460 - val_mae: 4.1536
 Epoch 20/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 32.7876 - mae: 4.2030
-Epoch 20: val_loss improved from 29.47826 to 28.56710, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 27.0111 - mae: 4.0341
+Epoch 20: val_loss improved from 26.34596 to 26.01719, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 30.6321 - mae: 4.5721 - val_loss: 28.5671 - val_mae: 4.2851
+10/10 [==============================] - 0s 8ms/step - loss: 29.4104 - mae: 4.4468 - val_loss: 26.0172 - val_mae: 4.1254
 Epoch 21/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 36.5958 - mae: 4.9369
-Epoch 21: val_loss improved from 28.56710 to 27.52577, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 33.0115 - mae: 4.5729
+Epoch 21: val_loss improved from 26.01719 to 25.30492, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 29.9714 - mae: 4.5222 - val_loss: 27.5258 - val_mae: 4.2196
+10/10 [==============================] - 0s 8ms/step - loss: 28.8008 - mae: 4.3971 - val_loss: 25.3049 - val_mae: 4.0758
 Epoch 22/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 22.8881 - mae: 4.0357
-Epoch 22: val_loss improved from 27.52577 to 26.98471, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 24.8612 - mae: 4.2884
+Epoch 22: val_loss improved from 25.30492 to 24.77261, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 29.3037 - mae: 4.4679 - val_loss: 26.9847 - val_mae: 4.1742
+10/10 [==============================] - 0s 8ms/step - loss: 28.3014 - mae: 4.3580 - val_loss: 24.7726 - val_mae: 4.0355
 Epoch 23/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 34.8598 - mae: 5.1183
-Epoch 23: val_loss improved from 26.98471 to 26.48899, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 37.4203 - mae: 5.1911
+Epoch 23: val_loss improved from 24.77261 to 24.46895, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 28.7419 - mae: 4.4223 - val_loss: 26.4890 - val_mae: 4.1353
+10/10 [==============================] - 0s 8ms/step - loss: 27.8302 - mae: 4.3165 - val_loss: 24.4690 - val_mae: 4.0010
 Epoch 24/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 29.9577 - mae: 4.7564
-Epoch 24: val_loss improved from 26.48899 to 25.52719, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 24.8553 - mae: 4.1255
+Epoch 24: val_loss improved from 24.46895 to 23.97793, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 27.9901 - mae: 4.3663 - val_loss: 25.5272 - val_mae: 4.0725
+10/10 [==============================] - 0s 7ms/step - loss: 27.3266 - mae: 4.2779 - val_loss: 23.9779 - val_mae: 3.9617
 Epoch 25/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 36.5184 - mae: 5.3477
-Epoch 25: val_loss improved from 25.52719 to 24.89279, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 26.0360 - mae: 4.2802
+Epoch 25: val_loss improved from 23.97793 to 23.17209, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 12ms/step - loss: 27.4591 - mae: 4.3171 - val_loss: 24.8928 - val_mae: 4.0250
+10/10 [==============================] - 0s 8ms/step - loss: 26.8388 - mae: 4.2427 - val_loss: 23.1721 - val_mae: 3.9136
 Epoch 26/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 22.3607 - mae: 3.7258
-Epoch 26: val_loss improved from 24.89279 to 24.21353, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 23.7031 - mae: 4.1494
+Epoch 26: val_loss improved from 23.17209 to 22.81348, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 26.9011 - mae: 4.2721 - val_loss: 24.2135 - val_mae: 3.9724
+10/10 [==============================] - 0s 8ms/step - loss: 26.3585 - mae: 4.2065 - val_loss: 22.8135 - val_mae: 3.8790
 Epoch 27/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 31.3041 - mae: 4.5740
-Epoch 27: val_loss improved from 24.21353 to 23.85297, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 30.6262 - mae: 4.3751
+Epoch 27: val_loss improved from 22.81348 to 22.51851, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 26.3867 - mae: 4.2251 - val_loss: 23.8530 - val_mae: 3.9398
+10/10 [==============================] - 0s 8ms/step - loss: 25.8129 - mae: 4.1615 - val_loss: 22.5185 - val_mae: 3.8429
 Epoch 28/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 26.9623 - mae: 4.1065
-Epoch 28: val_loss improved from 23.85297 to 22.97392, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 34.3102 - mae: 5.0268
+Epoch 28: val_loss improved from 22.51851 to 22.15770, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 25.7957 - mae: 4.1760 - val_loss: 22.9739 - val_mae: 3.8725
+10/10 [==============================] - 0s 8ms/step - loss: 25.3991 - mae: 4.1207 - val_loss: 22.1577 - val_mae: 3.8081
 Epoch 29/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 29.2209 - mae: 4.0175
-Epoch 29: val_loss improved from 22.97392 to 22.34577, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 39.9232 - mae: 4.9995
+Epoch 29: val_loss improved from 22.15770 to 21.42567, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 25.3205 - mae: 4.1343 - val_loss: 22.3458 - val_mae: 3.8207
+10/10 [==============================] - 0s 8ms/step - loss: 25.1266 - mae: 4.1035 - val_loss: 21.4257 - val_mae: 3.7646
 Epoch 30/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 27.6499 - mae: 4.6428
-Epoch 30: val_loss improved from 22.34577 to 22.25788, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 24.7663 - mae: 3.7405
+Epoch 30: val_loss improved from 21.42567 to 21.22388, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 24.7709 - mae: 4.0795 - val_loss: 22.2579 - val_mae: 3.8031
+10/10 [==============================] - 0s 8ms/step - loss: 24.5588 - mae: 4.0540 - val_loss: 21.2239 - val_mae: 3.7313
 Epoch 31/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 27.7834 - mae: 4.4277
-Epoch 31: val_loss improved from 22.25788 to 21.32904, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 27.0835 - mae: 4.4758
+Epoch 31: val_loss improved from 21.22388 to 20.69188, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 24.2908 - mae: 4.0420 - val_loss: 21.3290 - val_mae: 3.7285
+10/10 [==============================] - 0s 8ms/step - loss: 24.1271 - mae: 4.0187 - val_loss: 20.6919 - val_mae: 3.6918
 Epoch 32/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 26.7119 - mae: 4.3721
-Epoch 32: val_loss improved from 21.32904 to 20.81246, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 24.7077 - mae: 4.1173
+Epoch 32: val_loss improved from 20.69188 to 20.30139, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 23.8187 - mae: 4.0025 - val_loss: 20.8125 - val_mae: 3.6815
+10/10 [==============================] - 0s 8ms/step - loss: 23.6531 - mae: 3.9780 - val_loss: 20.3014 - val_mae: 3.6562
 Epoch 33/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 31.0065 - mae: 4.6795
-Epoch 33: val_loss improved from 20.81246 to 20.58086, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 22.8213 - mae: 4.1334
+Epoch 33: val_loss improved from 20.30139 to 20.04679, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 23.4657 - mae: 3.9677 - val_loss: 20.5809 - val_mae: 3.6513
+10/10 [==============================] - 0s 8ms/step - loss: 23.3707 - mae: 3.9510 - val_loss: 20.0468 - val_mae: 3.6233
 Epoch 34/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.2933 - mae: 3.3722
-Epoch 34: val_loss improved from 20.58086 to 19.82676, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.0847 - mae: 3.4841
+Epoch 34: val_loss improved from 20.04679 to 19.41879, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 22.8462 - mae: 3.9135 - val_loss: 19.8268 - val_mae: 3.5925
+10/10 [==============================] - 0s 9ms/step - loss: 22.7894 - mae: 3.9026 - val_loss: 19.4188 - val_mae: 3.5862
 Epoch 35/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.2893 - mae: 3.4667
-Epoch 35: val_loss improved from 19.82676 to 19.42408, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 22.1706 - mae: 3.6829
+Epoch 35: val_loss improved from 19.41879 to 19.10989, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 22.4705 - mae: 3.8830 - val_loss: 19.4241 - val_mae: 3.5524
+10/10 [==============================] - 0s 8ms/step - loss: 22.4703 - mae: 3.8817 - val_loss: 19.1099 - val_mae: 3.5509
 Epoch 36/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.5421 - mae: 3.1240
-Epoch 36: val_loss improved from 19.42408 to 19.00350, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 25.7051 - mae: 4.1596
+Epoch 36: val_loss improved from 19.10989 to 18.91549, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 22.0164 - mae: 3.8391 - val_loss: 19.0035 - val_mae: 3.5123
+10/10 [==============================] - 0s 8ms/step - loss: 22.1271 - mae: 3.8376 - val_loss: 18.9155 - val_mae: 3.5192
 Epoch 37/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 23.8877 - mae: 4.3073
-Epoch 37: val_loss improved from 19.00350 to 18.64843, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.8020 - mae: 3.2372
+Epoch 37: val_loss improved from 18.91549 to 18.42869, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 21.5566 - mae: 3.7971 - val_loss: 18.6484 - val_mae: 3.4754
+10/10 [==============================] - 0s 8ms/step - loss: 21.7180 - mae: 3.8052 - val_loss: 18.4287 - val_mae: 3.4811
 Epoch 38/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 17.5617 - mae: 3.6105
-Epoch 38: val_loss improved from 18.64843 to 18.24399, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 18.0772 - mae: 3.5820
+Epoch 38: val_loss improved from 18.42869 to 18.16501, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 21.2302 - mae: 3.7680 - val_loss: 18.2440 - val_mae: 3.4357
+10/10 [==============================] - 0s 8ms/step - loss: 21.2710 - mae: 3.7670 - val_loss: 18.1650 - val_mae: 3.4539
 Epoch 39/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.7315 - mae: 3.2913
-Epoch 39: val_loss improved from 18.24399 to 17.76565, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.9535 - mae: 3.2879
+Epoch 39: val_loss improved from 18.16501 to 18.01305, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 11ms/step - loss: 20.8080 - mae: 3.7252 - val_loss: 17.7656 - val_mae: 3.3938
+10/10 [==============================] - 0s 9ms/step - loss: 20.9810 - mae: 3.7372 - val_loss: 18.0131 - val_mae: 3.4282
 Epoch 40/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 17.8200 - mae: 3.2442
-Epoch 40: val_loss improved from 17.76565 to 17.48721, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 22.7627 - mae: 4.0977
+Epoch 40: val_loss improved from 18.01305 to 17.55341, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 20.4760 - mae: 3.6948 - val_loss: 17.4872 - val_mae: 3.3685
+10/10 [==============================] - 0s 8ms/step - loss: 20.7384 - mae: 3.7083 - val_loss: 17.5534 - val_mae: 3.3908
 Epoch 41/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 19.3729 - mae: 3.7609
-Epoch 41: val_loss improved from 17.48721 to 17.17241, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.8657 - mae: 3.0028
+Epoch 41: val_loss improved from 17.55341 to 17.45255, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 20.1605 - mae: 3.6643 - val_loss: 17.1724 - val_mae: 3.3413
+10/10 [==============================] - 0s 8ms/step - loss: 20.2191 - mae: 3.6693 - val_loss: 17.4526 - val_mae: 3.3755
 Epoch 42/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 20.5144 - mae: 4.0466
-Epoch 42: val_loss improved from 17.17241 to 16.81283, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.5589 - mae: 3.4461
+Epoch 42: val_loss improved from 17.45255 to 16.99606, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 19.6804 - mae: 3.6165 - val_loss: 16.8128 - val_mae: 3.3047
+10/10 [==============================] - 0s 8ms/step - loss: 19.9342 - mae: 3.6378 - val_loss: 16.9961 - val_mae: 3.3332
 Epoch 43/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 17.5485 - mae: 3.2750
-Epoch 43: val_loss improved from 16.81283 to 16.40276, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.3165 - mae: 3.2876
+Epoch 43: val_loss improved from 16.99606 to 16.75116, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 19.3849 - mae: 3.5825 - val_loss: 16.4028 - val_mae: 3.2695
+10/10 [==============================] - 0s 8ms/step - loss: 19.5964 - mae: 3.6087 - val_loss: 16.7512 - val_mae: 3.3098
 Epoch 44/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 19.2923 - mae: 3.7994
-Epoch 44: val_loss improved from 16.40276 to 16.19539, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 25.3019 - mae: 4.0287
+Epoch 44: val_loss improved from 16.75116 to 16.39722, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 19.0895 - mae: 3.5537 - val_loss: 16.1954 - val_mae: 3.2499
+10/10 [==============================] - 0s 9ms/step - loss: 19.2471 - mae: 3.5766 - val_loss: 16.3972 - val_mae: 3.2719
 Epoch 45/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.8800 - mae: 3.3483
-Epoch 45: val_loss improved from 16.19539 to 15.78207, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.5188 - mae: 3.1725
+Epoch 45: val_loss improved from 16.39722 to 16.21630, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 18.9880 - mae: 3.5352 - val_loss: 15.7821 - val_mae: 3.2120
+10/10 [==============================] - 0s 8ms/step - loss: 18.9521 - mae: 3.5440 - val_loss: 16.2163 - val_mae: 3.2508
 Epoch 46/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 14.8581 - mae: 3.1334
-Epoch 46: val_loss did not improve from 15.78207
+ 1/10 [==>...........................] - ETA: 0s - loss: 23.2710 - mae: 3.8644
+Epoch 46: val_loss improved from 16.21630 to 15.96975, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 6ms/step - loss: 18.3840 - mae: 3.4725 - val_loss: 15.8430 - val_mae: 3.2134
+10/10 [==============================] - 0s 8ms/step - loss: 18.6672 - mae: 3.5146 - val_loss: 15.9697 - val_mae: 3.2260
 Epoch 47/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 20.6620 - mae: 3.2602
-Epoch 47: val_loss improved from 15.78207 to 15.49500, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 19.5808 - mae: 3.4571
+Epoch 47: val_loss improved from 15.96975 to 15.73633, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 10ms/step - loss: 18.1950 - mae: 3.4709 - val_loss: 15.4950 - val_mae: 3.1782
+10/10 [==============================] - 0s 8ms/step - loss: 18.3396 - mae: 3.4856 - val_loss: 15.7363 - val_mae: 3.2004
 Epoch 48/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 18.9978 - mae: 3.3054
-Epoch 48: val_loss improved from 15.49500 to 15.04398, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.4412 - mae: 2.8879
+Epoch 48: val_loss improved from 15.73633 to 15.43190, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 17.9311 - mae: 3.4309 - val_loss: 15.0440 - val_mae: 3.1365
+10/10 [==============================] - 0s 9ms/step - loss: 18.0703 - mae: 3.4521 - val_loss: 15.4319 - val_mae: 3.1667
 Epoch 49/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.8070 - mae: 2.8452
-Epoch 49: val_loss improved from 15.04398 to 14.84998, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 22.7924 - mae: 3.7261
+Epoch 49: val_loss improved from 15.43190 to 15.26145, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 17.5507 - mae: 3.3964 - val_loss: 14.8500 - val_mae: 3.1134
+10/10 [==============================] - 0s 8ms/step - loss: 17.8205 - mae: 3.4348 - val_loss: 15.2615 - val_mae: 3.1472
 Epoch 50/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 21.9962 - mae: 3.8300
-Epoch 50: val_loss improved from 14.84998 to 14.57519, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.9843 - mae: 3.6240
+Epoch 50: val_loss improved from 15.26145 to 14.96888, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 17.2774 - mae: 3.3628 - val_loss: 14.5752 - val_mae: 3.0844
+10/10 [==============================] - 0s 8ms/step - loss: 17.5191 - mae: 3.4035 - val_loss: 14.9689 - val_mae: 3.1135
 Epoch 51/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 18.0305 - mae: 3.5312
-Epoch 51: val_loss improved from 14.57519 to 14.38155, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.7238 - mae: 3.1167
+Epoch 51: val_loss improved from 14.96888 to 14.88094, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 17.0181 - mae: 3.3390 - val_loss: 14.3815 - val_mae: 3.0605
+10/10 [==============================] - 0s 8ms/step - loss: 17.2286 - mae: 3.3686 - val_loss: 14.8809 - val_mae: 3.0991
 Epoch 52/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 26.6637 - mae: 4.0236
-Epoch 52: val_loss improved from 14.38155 to 14.22400, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.6838 - mae: 3.3181
+Epoch 52: val_loss improved from 14.88094 to 14.70524, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 16.7586 - mae: 3.3105 - val_loss: 14.2240 - val_mae: 3.0373
+10/10 [==============================] - 0s 8ms/step - loss: 16.9849 - mae: 3.3427 - val_loss: 14.7052 - val_mae: 3.0719
 Epoch 53/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.5892 - mae: 2.9990
-Epoch 53: val_loss improved from 14.22400 to 13.99145, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 22.2148 - mae: 3.7573
+Epoch 53: val_loss improved from 14.70524 to 14.48336, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 16.5419 - mae: 3.2815 - val_loss: 13.9914 - val_mae: 3.0093
+10/10 [==============================] - 0s 8ms/step - loss: 16.8417 - mae: 3.3312 - val_loss: 14.4834 - val_mae: 3.0470
 Epoch 54/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.3059 - mae: 2.6470
-Epoch 54: val_loss improved from 13.99145 to 13.79165, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.3184 - mae: 3.3646
+Epoch 54: val_loss improved from 14.48336 to 14.22431, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 16.3672 - mae: 3.2628 - val_loss: 13.7916 - val_mae: 2.9846
+10/10 [==============================] - 0s 7ms/step - loss: 16.5134 - mae: 3.2926 - val_loss: 14.2243 - val_mae: 3.0138
 Epoch 55/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 23.6489 - mae: 4.1231
-Epoch 55: val_loss improved from 13.79165 to 13.63890, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.3176 - mae: 3.4516
+Epoch 55: val_loss improved from 14.22431 to 14.11487, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 16.1026 - mae: 3.2371 - val_loss: 13.6389 - val_mae: 2.9734
+10/10 [==============================] - 0s 8ms/step - loss: 16.3591 - mae: 3.2844 - val_loss: 14.1149 - val_mae: 2.9953
 Epoch 56/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.5211 - mae: 3.3656
-Epoch 56: val_loss improved from 13.63890 to 13.44983, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.3098 - mae: 2.3907
+Epoch 56: val_loss improved from 14.11487 to 13.77264, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 15.8931 - mae: 3.2147 - val_loss: 13.4498 - val_mae: 2.9432
+10/10 [==============================] - 0s 8ms/step - loss: 16.0310 - mae: 3.2340 - val_loss: 13.7726 - val_mae: 2.9586
 Epoch 57/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 14.0058 - mae: 3.1420
-Epoch 57: val_loss improved from 13.44983 to 13.36955, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.5660 - mae: 3.2393
+Epoch 57: val_loss improved from 13.77264 to 13.60049, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 15.7330 - mae: 3.1918 - val_loss: 13.3696 - val_mae: 2.9342
+10/10 [==============================] - 0s 8ms/step - loss: 15.8242 - mae: 3.2116 - val_loss: 13.6005 - val_mae: 2.9371
 Epoch 58/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 17.6593 - mae: 3.1422
-Epoch 58: val_loss did not improve from 13.36955
+ 1/10 [==>...........................] - ETA: 0s - loss: 20.3793 - mae: 3.3979
+Epoch 58: val_loss did not improve from 13.60049
 
-10/10 [==============================] - 0s 5ms/step - loss: 15.5687 - mae: 3.1747 - val_loss: 13.4004 - val_mae: 2.9355
+10/10 [==============================] - 0s 5ms/step - loss: 15.6724 - mae: 3.1874 - val_loss: 13.6864 - val_mae: 2.9395
 Epoch 59/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 17.9833 - mae: 3.5154
-Epoch 59: val_loss improved from 13.36955 to 13.01116, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 18.8208 - mae: 3.5783
+Epoch 59: val_loss improved from 13.60049 to 13.53806, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 15.3241 - mae: 3.1458 - val_loss: 13.0112 - val_mae: 2.8922
+10/10 [==============================] - 0s 7ms/step - loss: 15.4753 - mae: 3.1697 - val_loss: 13.5381 - val_mae: 2.9230
 Epoch 60/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.6790 - mae: 3.5483
-Epoch 60: val_loss improved from 13.01116 to 12.81407, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.5107 - mae: 2.8294
+Epoch 60: val_loss improved from 13.53806 to 13.22883, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 15.1321 - mae: 3.1241 - val_loss: 12.8141 - val_mae: 2.8709
+10/10 [==============================] - 0s 8ms/step - loss: 15.2544 - mae: 3.1431 - val_loss: 13.2288 - val_mae: 2.8873
 Epoch 61/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.6037 - mae: 3.1985
-Epoch 61: val_loss improved from 12.81407 to 12.74536, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.9247 - mae: 3.4091
+Epoch 61: val_loss improved from 13.22883 to 13.15739, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 15.0886 - mae: 3.1120 - val_loss: 12.7454 - val_mae: 2.8648
+10/10 [==============================] - 0s 8ms/step - loss: 15.1262 - mae: 3.1261 - val_loss: 13.1574 - val_mae: 2.8786
 Epoch 62/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.5919 - mae: 2.7264
-Epoch 62: val_loss improved from 12.74536 to 12.68790, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 28.8101 - mae: 4.4123
+Epoch 62: val_loss improved from 13.15739 to 12.92490, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 14.7888 - mae: 3.0832 - val_loss: 12.6879 - val_mae: 2.8550
+10/10 [==============================] - 0s 8ms/step - loss: 14.9123 - mae: 3.0981 - val_loss: 12.9249 - val_mae: 2.8531
 Epoch 63/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.4275 - mae: 2.7230
-Epoch 63: val_loss improved from 12.68790 to 12.51271, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.6346 - mae: 2.8821
+Epoch 63: val_loss improved from 12.92490 to 12.89959, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 14.6218 - mae: 3.0587 - val_loss: 12.5127 - val_mae: 2.8339
+10/10 [==============================] - 0s 8ms/step - loss: 14.7680 - mae: 3.0869 - val_loss: 12.8996 - val_mae: 2.8470
 Epoch 64/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.7069 - mae: 3.0728
-Epoch 64: val_loss improved from 12.51271 to 12.42334, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.4346 - mae: 3.1233
+Epoch 64: val_loss improved from 12.89959 to 12.83615, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 14.5296 - mae: 3.0492 - val_loss: 12.4233 - val_mae: 2.8269
+10/10 [==============================] - 0s 8ms/step - loss: 14.6355 - mae: 3.0663 - val_loss: 12.8362 - val_mae: 2.8370
 Epoch 65/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 14.3661 - mae: 3.0982
-Epoch 65: val_loss improved from 12.42334 to 12.30164, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.8826 - mae: 2.6242
+Epoch 65: val_loss improved from 12.83615 to 12.55268, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 14.4163 - mae: 3.0413 - val_loss: 12.3016 - val_mae: 2.8064
+10/10 [==============================] - 0s 8ms/step - loss: 14.4405 - mae: 3.0431 - val_loss: 12.5527 - val_mae: 2.8056
 Epoch 66/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.5039 - mae: 3.0503
-Epoch 66: val_loss improved from 12.30164 to 12.15782, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.7516 - mae: 2.6995
+Epoch 66: val_loss improved from 12.55268 to 12.42966, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 14.1530 - mae: 3.0055 - val_loss: 12.1578 - val_mae: 2.7942
+10/10 [==============================] - 0s 9ms/step - loss: 14.3188 - mae: 3.0291 - val_loss: 12.4297 - val_mae: 2.7904
 Epoch 67/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.3597 - mae: 3.0201
-Epoch 67: val_loss improved from 12.15782 to 12.10476, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.1797 - mae: 3.0716
+Epoch 67: val_loss did not improve from 12.42966
 
-10/10 [==============================] - 0s 7ms/step - loss: 14.0909 - mae: 2.9990 - val_loss: 12.1048 - val_mae: 2.7823
+10/10 [==============================] - 0s 5ms/step - loss: 14.1842 - mae: 3.0143 - val_loss: 12.4524 - val_mae: 2.7952
 Epoch 68/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 18.4729 - mae: 3.2991
-Epoch 68: val_loss improved from 12.10476 to 12.03549, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.7484 - mae: 2.6102
+Epoch 68: val_loss improved from 12.42966 to 12.26151, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 13.9595 - mae: 2.9789 - val_loss: 12.0355 - val_mae: 2.7704
+10/10 [==============================] - 0s 8ms/step - loss: 14.0192 - mae: 2.9946 - val_loss: 12.2615 - val_mae: 2.7637
 Epoch 69/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.2519 - mae: 3.0721
-Epoch 69: val_loss improved from 12.03549 to 11.94937, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.4155 - mae: 3.1702
+Epoch 69: val_loss improved from 12.26151 to 12.24829, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 13.9164 - mae: 2.9765 - val_loss: 11.9494 - val_mae: 2.7679
+10/10 [==============================] - 0s 9ms/step - loss: 14.0905 - mae: 2.9932 - val_loss: 12.2483 - val_mae: 2.7638
 Epoch 70/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.8209 - mae: 3.0073
-Epoch 70: val_loss improved from 11.94937 to 11.88538, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 19.4353 - mae: 3.6633
+Epoch 70: val_loss did not improve from 12.24829
 
-10/10 [==============================] - 0s 7ms/step - loss: 13.7622 - mae: 2.9559 - val_loss: 11.8854 - val_mae: 2.7352
+10/10 [==============================] - 0s 5ms/step - loss: 13.8061 - mae: 2.9629 - val_loss: 12.4188 - val_mae: 2.7968
 Epoch 71/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.3999 - mae: 2.8090
-Epoch 71: val_loss improved from 11.88538 to 11.80303, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.4848 - mae: 2.8463
+Epoch 71: val_loss did not improve from 12.24829
 
-10/10 [==============================] - 0s 7ms/step - loss: 13.6659 - mae: 2.9435 - val_loss: 11.8030 - val_mae: 2.7396
+10/10 [==============================] - 0s 5ms/step - loss: 13.7717 - mae: 2.9408 - val_loss: 12.2598 - val_mae: 2.7509
 Epoch 72/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.0866 - mae: 2.6021
-Epoch 72: val_loss improved from 11.80303 to 11.74700, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.8002 - mae: 3.0758
+Epoch 72: val_loss improved from 12.24829 to 12.02210, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 13.6147 - mae: 2.9325 - val_loss: 11.7470 - val_mae: 2.7342
+10/10 [==============================] - 0s 8ms/step - loss: 13.6789 - mae: 2.9385 - val_loss: 12.0221 - val_mae: 2.7362
 Epoch 73/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 11.9282 - mae: 2.8212
-Epoch 73: val_loss did not improve from 11.74700
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.2002 - mae: 2.6597
+Epoch 73: val_loss improved from 12.02210 to 11.85241, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 5ms/step - loss: 13.5806 - mae: 2.9331 - val_loss: 11.7963 - val_mae: 2.7095
+10/10 [==============================] - 0s 8ms/step - loss: 13.5479 - mae: 2.9175 - val_loss: 11.8524 - val_mae: 2.7104
 Epoch 74/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.2009 - mae: 2.7054
-Epoch 74: val_loss improved from 11.74700 to 11.70992, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.8022 - mae: 3.0622
+Epoch 74: val_loss improved from 11.85241 to 11.78247, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 13.3029 - mae: 2.8909 - val_loss: 11.7099 - val_mae: 2.7233
+10/10 [==============================] - 0s 8ms/step - loss: 13.4462 - mae: 2.9041 - val_loss: 11.7825 - val_mae: 2.6972
 Epoch 75/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 14.0276 - mae: 3.1550
-Epoch 75: val_loss improved from 11.70992 to 11.55328, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.7600 - mae: 2.6552
+Epoch 75: val_loss did not improve from 11.78247
 
-10/10 [==============================] - 0s 9ms/step - loss: 13.3441 - mae: 2.8923 - val_loss: 11.5533 - val_mae: 2.6942
+10/10 [==============================] - 0s 5ms/step - loss: 13.4312 - mae: 2.8906 - val_loss: 11.8039 - val_mae: 2.7061
 Epoch 76/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 11.6856 - mae: 2.7713
-Epoch 76: val_loss improved from 11.55328 to 11.41109, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.4630 - mae: 2.9742
+Epoch 76: val_loss improved from 11.78247 to 11.75784, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 13.2128 - mae: 2.8729 - val_loss: 11.4111 - val_mae: 2.6780
+10/10 [==============================] - 0s 7ms/step - loss: 13.2965 - mae: 2.8783 - val_loss: 11.7578 - val_mae: 2.6930
 Epoch 77/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 14.4619 - mae: 3.1812
-Epoch 77: val_loss did not improve from 11.41109
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.8776 - mae: 2.8690
+Epoch 77: val_loss improved from 11.75784 to 11.74468, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 6ms/step - loss: 13.1902 - mae: 2.8743 - val_loss: 11.5260 - val_mae: 2.6770
+10/10 [==============================] - 0s 7ms/step - loss: 13.2160 - mae: 2.8716 - val_loss: 11.7447 - val_mae: 2.6814
 Epoch 78/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.1649 - mae: 2.4229
-Epoch 78: val_loss improved from 11.41109 to 11.34018, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.9189 - mae: 2.4893
+Epoch 78: val_loss did not improve from 11.74468
 
-10/10 [==============================] - 0s 9ms/step - loss: 13.0825 - mae: 2.8581 - val_loss: 11.3402 - val_mae: 2.6637
+10/10 [==============================] - 0s 5ms/step - loss: 13.1553 - mae: 2.8548 - val_loss: 11.7558 - val_mae: 2.6929
 Epoch 79/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 7.9308 - mae: 2.3294
-Epoch 79: val_loss improved from 11.34018 to 11.33636, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.9693 - mae: 2.4353
+Epoch 79: val_loss improved from 11.74468 to 11.61389, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 13.0246 - mae: 2.8457 - val_loss: 11.3364 - val_mae: 2.6474
+10/10 [==============================] - 0s 8ms/step - loss: 13.1333 - mae: 2.8490 - val_loss: 11.6139 - val_mae: 2.6656
 Epoch 80/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.2525 - mae: 2.6050
-Epoch 80: val_loss improved from 11.33636 to 11.31416, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.5588 - mae: 2.3119
+Epoch 80: val_loss did not improve from 11.61389
 
-10/10 [==============================] - 0s 7ms/step - loss: 12.9453 - mae: 2.8343 - val_loss: 11.3142 - val_mae: 2.6489
+10/10 [==============================] - 0s 5ms/step - loss: 13.0323 - mae: 2.8358 - val_loss: 11.6336 - val_mae: 2.6621
 Epoch 81/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.3908 - mae: 2.7481
-Epoch 81: val_loss did not improve from 11.31416
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.9827 - mae: 3.0437
+Epoch 81: val_loss did not improve from 11.61389
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.9462 - mae: 2.8322 - val_loss: 11.3735 - val_mae: 2.6487
+10/10 [==============================] - 0s 5ms/step - loss: 13.0419 - mae: 2.8366 - val_loss: 11.6194 - val_mae: 2.6619
 Epoch 82/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.0238 - mae: 2.5921
-Epoch 82: val_loss improved from 11.31416 to 11.15452, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.1863 - mae: 2.9613
+Epoch 82: val_loss improved from 11.61389 to 11.53054, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 10ms/step - loss: 12.8716 - mae: 2.8203 - val_loss: 11.1545 - val_mae: 2.6214
+10/10 [==============================] - 0s 7ms/step - loss: 12.9774 - mae: 2.8234 - val_loss: 11.5305 - val_mae: 2.6507
 Epoch 83/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.7428 - mae: 2.7357
-Epoch 83: val_loss did not improve from 11.15452
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.2977 - mae: 2.6947
+Epoch 83: val_loss improved from 11.53054 to 11.42476, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 12.8906 - mae: 2.8259 - val_loss: 11.1565 - val_mae: 2.6159
+10/10 [==============================] - 0s 8ms/step - loss: 12.9676 - mae: 2.8156 - val_loss: 11.4248 - val_mae: 2.6381
 Epoch 84/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.5050 - mae: 2.4713
-Epoch 84: val_loss did not improve from 11.15452
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.1501 - mae: 2.3136
+Epoch 84: val_loss did not improve from 11.42476
 
-10/10 [==============================] - 0s 8ms/step - loss: 12.9087 - mae: 2.8101 - val_loss: 11.1976 - val_mae: 2.6223
+10/10 [==============================] - 0s 5ms/step - loss: 12.8074 - mae: 2.7984 - val_loss: 11.4735 - val_mae: 2.6289
 Epoch 85/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.7091 - mae: 2.4161
-Epoch 85: val_loss did not improve from 11.15452
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.5736 - mae: 3.3351
+Epoch 85: val_loss improved from 11.42476 to 11.24263, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 7ms/step - loss: 12.7002 - mae: 2.7902 - val_loss: 11.1985 - val_mae: 2.6136
+10/10 [==============================] - 0s 8ms/step - loss: 12.8291 - mae: 2.8086 - val_loss: 11.2426 - val_mae: 2.6074
 Epoch 86/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 18.6542 - mae: 3.4780
-Epoch 86: val_loss improved from 11.15452 to 11.09321, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.3850 - mae: 3.4141
+Epoch 86: val_loss did not improve from 11.24263
 
-10/10 [==============================] - 0s 21ms/step - loss: 12.7199 - mae: 2.7922 - val_loss: 11.0932 - val_mae: 2.6019
+10/10 [==============================] - 0s 5ms/step - loss: 12.8472 - mae: 2.7877 - val_loss: 11.2854 - val_mae: 2.6195
 Epoch 87/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.0968 - mae: 2.7125
-Epoch 87: val_loss did not improve from 11.09321
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.1271 - mae: 2.8017
+Epoch 87: val_loss did not improve from 11.24263
 
-10/10 [==============================] - 0s 7ms/step - loss: 12.6964 - mae: 2.7858 - val_loss: 11.2263 - val_mae: 2.6124
+10/10 [==============================] - 0s 6ms/step - loss: 13.0963 - mae: 2.8211 - val_loss: 11.5092 - val_mae: 2.6301
 Epoch 88/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 7.5997 - mae: 2.1250
-Epoch 88: val_loss improved from 11.09321 to 10.97401, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.1460 - mae: 2.7971
+Epoch 88: val_loss did not improve from 11.24263
 
-10/10 [==============================] - 0s 13ms/step - loss: 12.7165 - mae: 2.7864 - val_loss: 10.9740 - val_mae: 2.5844
+10/10 [==============================] - 0s 5ms/step - loss: 12.6910 - mae: 2.7767 - val_loss: 11.5399 - val_mae: 2.6490
 Epoch 89/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 9.3523 - mae: 2.4758
-Epoch 89: val_loss improved from 10.97401 to 10.94933, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.8528 - mae: 2.9404
+Epoch 89: val_loss did not improve from 11.24263
 
-10/10 [==============================] - 0s 11ms/step - loss: 12.5737 - mae: 2.7610 - val_loss: 10.9493 - val_mae: 2.5741
+10/10 [==============================] - 0s 5ms/step - loss: 12.9656 - mae: 2.7989 - val_loss: 11.5528 - val_mae: 2.6305
 Epoch 90/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.7431 - mae: 2.6197
-Epoch 90: val_loss improved from 10.94933 to 10.90017, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.7251 - mae: 2.2123
+Epoch 90: val_loss did not improve from 11.24263
 
-10/10 [==============================] - 0s 15ms/step - loss: 12.6323 - mae: 2.7730 - val_loss: 10.9002 - val_mae: 2.5670
+10/10 [==============================] - 0s 5ms/step - loss: 12.8737 - mae: 2.8122 - val_loss: 11.3527 - val_mae: 2.6247
 Epoch 91/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.2835 - mae: 2.3730
-Epoch 91: val_loss did not improve from 10.90017
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.2549 - mae: 2.7378
+Epoch 91: val_loss did not improve from 11.24263
 
-10/10 [==============================] - 0s 7ms/step - loss: 12.5445 - mae: 2.7586 - val_loss: 11.0718 - val_mae: 2.5888
+10/10 [==============================] - 0s 5ms/step - loss: 12.5821 - mae: 2.7615 - val_loss: 11.2919 - val_mae: 2.5956
 Epoch 92/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.3242 - mae: 3.0077
-Epoch 92: val_loss did not improve from 10.90017
+ 1/10 [==>...........................] - ETA: 0s - loss: 6.3804 - mae: 1.9309
+Epoch 92: val_loss improved from 11.24263 to 11.14743, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 6ms/step - loss: 12.5035 - mae: 2.7593 - val_loss: 11.0618 - val_mae: 2.5770
+10/10 [==============================] - 0s 9ms/step - loss: 12.6372 - mae: 2.7606 - val_loss: 11.1474 - val_mae: 2.5831
 Epoch 93/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 9.8907 - mae: 2.4895
-Epoch 93: val_loss did not improve from 10.90017
+ 1/10 [==>...........................] - ETA: 0s - loss: 18.6573 - mae: 3.0628
+Epoch 93: val_loss did not improve from 11.14743
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.5523 - mae: 2.7542 - val_loss: 11.1315 - val_mae: 2.5911
+10/10 [==============================] - 0s 5ms/step - loss: 12.9994 - mae: 2.8004 - val_loss: 11.2146 - val_mae: 2.5915
 Epoch 94/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.0020 - mae: 3.2433
-Epoch 94: val_loss did not improve from 10.90017
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.7165 - mae: 3.0717
+Epoch 94: val_loss did not improve from 11.14743
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.4566 - mae: 2.7447 - val_loss: 11.0668 - val_mae: 2.5775
+10/10 [==============================] - 0s 5ms/step - loss: 12.7502 - mae: 2.7857 - val_loss: 11.3554 - val_mae: 2.6016
 Epoch 95/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 9.9023 - mae: 2.3383
-Epoch 95: val_loss did not improve from 10.90017
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.8572 - mae: 2.7791
+Epoch 95: val_loss did not improve from 11.14743
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.5168 - mae: 2.7486 - val_loss: 10.9975 - val_mae: 2.5696
+10/10 [==============================] - 0s 5ms/step - loss: 12.5267 - mae: 2.7445 - val_loss: 11.2495 - val_mae: 2.5932
 Epoch 96/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 7.7450 - mae: 2.2559
-Epoch 96: val_loss did not improve from 10.90017
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.1583 - mae: 3.2337
+Epoch 96: val_loss improved from 11.14743 to 11.07920, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.5524 - mae: 2.7554 - val_loss: 10.9156 - val_mae: 2.5552
+10/10 [==============================] - 0s 9ms/step - loss: 12.5712 - mae: 2.7447 - val_loss: 11.0792 - val_mae: 2.5652
 Epoch 97/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 11.1342 - mae: 2.7171
-Epoch 97: val_loss improved from 10.90017 to 10.84447, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.9522 - mae: 2.8465
+Epoch 97: val_loss improved from 11.07920 to 10.99199, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 12.4705 - mae: 2.7362 - val_loss: 10.8445 - val_mae: 2.5470
+10/10 [==============================] - 0s 8ms/step - loss: 12.4882 - mae: 2.7367 - val_loss: 10.9920 - val_mae: 2.5524
 Epoch 98/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 14.3964 - mae: 2.9134
-Epoch 98: val_loss did not improve from 10.84447
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.2711 - mae: 3.0081
+Epoch 98: val_loss improved from 10.99199 to 10.96071, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3922 - mae: 2.7247 - val_loss: 10.8602 - val_mae: 2.5451
+10/10 [==============================] - 0s 8ms/step - loss: 12.4925 - mae: 2.7296 - val_loss: 10.9607 - val_mae: 2.5482
 Epoch 99/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 9.8658 - mae: 2.5447
-Epoch 99: val_loss improved from 10.84447 to 10.76784, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.2062 - mae: 3.1326
+Epoch 99: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 9ms/step - loss: 12.3897 - mae: 2.7295 - val_loss: 10.7678 - val_mae: 2.5316
+10/10 [==============================] - 0s 5ms/step - loss: 12.5097 - mae: 2.7362 - val_loss: 11.2026 - val_mae: 2.5762
 Epoch 100/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.9873 - mae: 3.2487
-Epoch 100: val_loss did not improve from 10.76784
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.6258 - mae: 2.6961
+Epoch 100: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3837 - mae: 2.7254 - val_loss: 10.8785 - val_mae: 2.5491
+10/10 [==============================] - 0s 5ms/step - loss: 12.5016 - mae: 2.7375 - val_loss: 11.1348 - val_mae: 2.5648
 Epoch 101/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.1322 - mae: 3.1436
-Epoch 101: val_loss did not improve from 10.76784
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.5941 - mae: 2.9496
+Epoch 101: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.4183 - mae: 2.7297 - val_loss: 10.8731 - val_mae: 2.5421
+10/10 [==============================] - 0s 5ms/step - loss: 12.4482 - mae: 2.7189 - val_loss: 11.0677 - val_mae: 2.5553
 Epoch 102/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.6671 - mae: 2.3528
-Epoch 102: val_loss improved from 10.76784 to 10.75633, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 5.6095 - mae: 1.9805
+Epoch 102: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 9ms/step - loss: 12.5176 - mae: 2.7400 - val_loss: 10.7563 - val_mae: 2.5397
+10/10 [==============================] - 0s 5ms/step - loss: 12.5210 - mae: 2.7458 - val_loss: 11.1863 - val_mae: 2.5734
 Epoch 103/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.8037 - mae: 2.7481
-Epoch 103: val_loss did not improve from 10.75633
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.7472 - mae: 2.1771
+Epoch 103: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 6ms/step - loss: 12.6410 - mae: 2.7387 - val_loss: 10.8863 - val_mae: 2.5417
+10/10 [==============================] - 0s 6ms/step - loss: 12.4836 - mae: 2.7178 - val_loss: 10.9747 - val_mae: 2.5523
 Epoch 104/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.1651 - mae: 2.7396
-Epoch 104: val_loss did not improve from 10.75633
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.4452 - mae: 2.8572
+Epoch 104: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 6ms/step - loss: 12.6747 - mae: 2.7669 - val_loss: 10.8397 - val_mae: 2.5482
+10/10 [==============================] - 0s 5ms/step - loss: 12.4764 - mae: 2.7231 - val_loss: 11.0473 - val_mae: 2.5496
 Epoch 105/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.3418 - mae: 2.7682
-Epoch 105: val_loss improved from 10.75633 to 10.74855, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.2845 - mae: 3.1483
+Epoch 105: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 10ms/step - loss: 12.4165 - mae: 2.7430 - val_loss: 10.7485 - val_mae: 2.5222
+10/10 [==============================] - 0s 5ms/step - loss: 12.4876 - mae: 2.7287 - val_loss: 11.0396 - val_mae: 2.5520
 Epoch 106/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 11.3815 - mae: 2.5373
-Epoch 106: val_loss did not improve from 10.74855
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.4832 - mae: 2.9645
+Epoch 106: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3043 - mae: 2.7095 - val_loss: 10.7509 - val_mae: 2.5333
+10/10 [==============================] - 0s 5ms/step - loss: 12.3925 - mae: 2.7296 - val_loss: 11.1556 - val_mae: 2.5693
 Epoch 107/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 19.0885 - mae: 3.4433
-Epoch 107: val_loss did not improve from 10.74855
+ 1/10 [==>...........................] - ETA: 0s - loss: 21.8913 - mae: 3.5864
+Epoch 107: val_loss did not improve from 10.96071
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2968 - mae: 2.7149 - val_loss: 10.7779 - val_mae: 2.5285
+10/10 [==============================] - 0s 6ms/step - loss: 12.3528 - mae: 2.7200 - val_loss: 11.2224 - val_mae: 2.5912
 Epoch 108/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 5.7969 - mae: 1.9903
-Epoch 108: val_loss did not improve from 10.74855
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.0279 - mae: 2.7959
+Epoch 108: val_loss improved from 10.96071 to 10.95382, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3020 - mae: 2.7079 - val_loss: 10.9115 - val_mae: 2.5512
+10/10 [==============================] - 0s 9ms/step - loss: 12.3404 - mae: 2.7046 - val_loss: 10.9538 - val_mae: 2.5373
 Epoch 109/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 14.1876 - mae: 3.0229
-Epoch 109: val_loss did not improve from 10.74855
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.6179 - mae: 2.8240
+Epoch 109: val_loss did not improve from 10.95382
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3968 - mae: 2.7275 - val_loss: 10.8811 - val_mae: 2.5446
+10/10 [==============================] - 0s 5ms/step - loss: 12.3685 - mae: 2.7185 - val_loss: 11.0393 - val_mae: 2.5501
 Epoch 110/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.2365 - mae: 2.3693
-Epoch 110: val_loss improved from 10.74855 to 10.70186, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 6.5268 - mae: 1.9205
+Epoch 110: val_loss improved from 10.95382 to 10.86094, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 9ms/step - loss: 12.2788 - mae: 2.7050 - val_loss: 10.7019 - val_mae: 2.5176
+10/10 [==============================] - 0s 8ms/step - loss: 12.3712 - mae: 2.7098 - val_loss: 10.8609 - val_mae: 2.5250
 Epoch 111/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.9326 - mae: 2.2811
-Epoch 111: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.4567 - mae: 2.7699
+Epoch 111: val_loss improved from 10.86094 to 10.81264, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3495 - mae: 2.7220 - val_loss: 10.7880 - val_mae: 2.5276
+10/10 [==============================] - 0s 8ms/step - loss: 12.4030 - mae: 2.7193 - val_loss: 10.8126 - val_mae: 2.5157
 Epoch 112/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 11.5014 - mae: 2.6527
-Epoch 112: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 6.2125 - mae: 2.0979
+Epoch 112: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.5835 - mae: 2.7346 - val_loss: 10.7712 - val_mae: 2.5470
+10/10 [==============================] - 0s 5ms/step - loss: 12.5054 - mae: 2.7245 - val_loss: 10.9712 - val_mae: 2.5435
 Epoch 113/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 9.2492 - mae: 2.4841
-Epoch 113: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.2541 - mae: 3.1179
+Epoch 113: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 6ms/step - loss: 12.2041 - mae: 2.6962 - val_loss: 10.8898 - val_mae: 2.5466
+10/10 [==============================] - 0s 5ms/step - loss: 12.4237 - mae: 2.7260 - val_loss: 11.0963 - val_mae: 2.5625
 Epoch 114/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.8521 - mae: 3.0694
-Epoch 114: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.8883 - mae: 2.6160
+Epoch 114: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2254 - mae: 2.7044 - val_loss: 10.7734 - val_mae: 2.5329
+10/10 [==============================] - 0s 5ms/step - loss: 12.5402 - mae: 2.7336 - val_loss: 11.0374 - val_mae: 2.5578
 Epoch 115/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.3703 - mae: 2.7541
-Epoch 115: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.1344 - mae: 2.5127
+Epoch 115: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2382 - mae: 2.6956 - val_loss: 10.7213 - val_mae: 2.5176
+10/10 [==============================] - 0s 5ms/step - loss: 12.5866 - mae: 2.7353 - val_loss: 11.0587 - val_mae: 2.5590
 Epoch 116/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 11.3686 - mae: 2.8493
-Epoch 116: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.6583 - mae: 2.6701
+Epoch 116: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2810 - mae: 2.7032 - val_loss: 10.7168 - val_mae: 2.5189
+10/10 [==============================] - 0s 5ms/step - loss: 12.3101 - mae: 2.7043 - val_loss: 11.0197 - val_mae: 2.5672
 Epoch 117/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.3720 - mae: 2.2600
-Epoch 117: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 4.9760 - mae: 1.9097
+Epoch 117: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3953 - mae: 2.7033 - val_loss: 10.7784 - val_mae: 2.5281
+10/10 [==============================] - 0s 5ms/step - loss: 12.3118 - mae: 2.6983 - val_loss: 11.0482 - val_mae: 2.5615
 Epoch 118/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.6660 - mae: 2.9074
-Epoch 118: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.8277 - mae: 2.5154
+Epoch 118: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.4085 - mae: 2.7207 - val_loss: 10.8203 - val_mae: 2.5439
+10/10 [==============================] - 0s 5ms/step - loss: 12.3321 - mae: 2.7103 - val_loss: 10.8333 - val_mae: 2.5207
 Epoch 119/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 10.9219 - mae: 2.5544
-Epoch 119: val_loss did not improve from 10.70186
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.8101 - mae: 2.5674
+Epoch 119: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3845 - mae: 2.7255 - val_loss: 10.8631 - val_mae: 2.5496
+10/10 [==============================] - 0s 5ms/step - loss: 12.6605 - mae: 2.7383 - val_loss: 10.8233 - val_mae: 2.5194
 Epoch 120/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.3800 - mae: 2.4256
-Epoch 120: val_loss improved from 10.70186 to 10.58912, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.6663 - mae: 2.4348
+Epoch 120: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 9ms/step - loss: 12.3041 - mae: 2.6871 - val_loss: 10.5891 - val_mae: 2.5258
+10/10 [==============================] - 0s 5ms/step - loss: 12.3454 - mae: 2.7190 - val_loss: 10.9065 - val_mae: 2.5339
 Epoch 121/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 17.8147 - mae: 2.9952
-Epoch 121: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 14.8849 - mae: 3.1994
+Epoch 121: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3396 - mae: 2.7093 - val_loss: 10.7759 - val_mae: 2.5291
+10/10 [==============================] - 0s 5ms/step - loss: 12.3016 - mae: 2.7027 - val_loss: 11.0824 - val_mae: 2.5648
 Epoch 122/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.1706 - mae: 2.9660
-Epoch 122: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 16.1794 - mae: 3.1223
+Epoch 122: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1848 - mae: 2.6895 - val_loss: 10.7266 - val_mae: 2.5297
+10/10 [==============================] - 0s 5ms/step - loss: 12.2220 - mae: 2.6977 - val_loss: 11.0456 - val_mae: 2.5645
 Epoch 123/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 11.7979 - mae: 2.5516
-Epoch 123: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.7864 - mae: 2.5851
+Epoch 123: val_loss did not improve from 10.81264
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1933 - mae: 2.6916 - val_loss: 10.7645 - val_mae: 2.5292
+10/10 [==============================] - 0s 5ms/step - loss: 12.2801 - mae: 2.7064 - val_loss: 10.8609 - val_mae: 2.5293
 Epoch 124/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.8316 - mae: 2.3912
-Epoch 124: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.3551 - mae: 3.1857
+Epoch 124: val_loss improved from 10.81264 to 10.72828, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3758 - mae: 2.7190 - val_loss: 10.6249 - val_mae: 2.5087
+10/10 [==============================] - 0s 14ms/step - loss: 12.3235 - mae: 2.6992 - val_loss: 10.7283 - val_mae: 2.5120
 Epoch 125/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.8284 - mae: 3.1416
-Epoch 125: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.5633 - mae: 2.3624
+Epoch 125: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1516 - mae: 2.6814 - val_loss: 10.6771 - val_mae: 2.5201
+10/10 [==============================] - 0s 5ms/step - loss: 12.2593 - mae: 2.6909 - val_loss: 10.7819 - val_mae: 2.5154
 Epoch 126/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 9.6992 - mae: 2.5722
-Epoch 126: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 20.3517 - mae: 3.6117
+Epoch 126: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2175 - mae: 2.6915 - val_loss: 10.6890 - val_mae: 2.5181
+10/10 [==============================] - 0s 5ms/step - loss: 12.2333 - mae: 2.6943 - val_loss: 10.9164 - val_mae: 2.5392
 Epoch 127/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.3321 - mae: 2.4541
-Epoch 127: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 6.3888 - mae: 2.1527
+Epoch 127: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1488 - mae: 2.6833 - val_loss: 10.7488 - val_mae: 2.5326
+10/10 [==============================] - 0s 5ms/step - loss: 12.2735 - mae: 2.6917 - val_loss: 10.9092 - val_mae: 2.5387
 Epoch 128/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 7.6138 - mae: 2.1044
-Epoch 128: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.9388 - mae: 3.1287
+Epoch 128: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2316 - mae: 2.7037 - val_loss: 10.6907 - val_mae: 2.5211
+10/10 [==============================] - 0s 5ms/step - loss: 12.2111 - mae: 2.6965 - val_loss: 10.9177 - val_mae: 2.5411
 Epoch 129/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 9.5401 - mae: 2.4896
-Epoch 129: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.5669 - mae: 3.4703
+Epoch 129: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2188 - mae: 2.6937 - val_loss: 10.6992 - val_mae: 2.5229
+10/10 [==============================] - 0s 5ms/step - loss: 12.2231 - mae: 2.6865 - val_loss: 10.8159 - val_mae: 2.5248
 Epoch 130/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.5755 - mae: 2.9146
-Epoch 130: val_loss did not improve from 10.58912
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.7031 - mae: 3.1630
+Epoch 130: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3590 - mae: 2.7045 - val_loss: 10.6377 - val_mae: 2.5138
+10/10 [==============================] - 0s 5ms/step - loss: 12.3049 - mae: 2.7044 - val_loss: 10.9479 - val_mae: 2.5527
 Epoch 131/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.5836 - mae: 2.6980
-Epoch 131: val_loss improved from 10.58912 to 10.56853, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 18.3971 - mae: 3.3265
+Epoch 131: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 9ms/step - loss: 12.7548 - mae: 2.7782 - val_loss: 10.5685 - val_mae: 2.5072
+10/10 [==============================] - 0s 5ms/step - loss: 12.2434 - mae: 2.6934 - val_loss: 10.7367 - val_mae: 2.5161
 Epoch 132/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.8018 - mae: 3.0528
-Epoch 132: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.2626 - mae: 2.3021
+Epoch 132: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3300 - mae: 2.7109 - val_loss: 10.6197 - val_mae: 2.5151
+10/10 [==============================] - 0s 5ms/step - loss: 12.2199 - mae: 2.6869 - val_loss: 10.8609 - val_mae: 2.5361
 Epoch 133/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 11.9909 - mae: 2.8201
-Epoch 133: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 10.5758 - mae: 2.6458
+Epoch 133: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1937 - mae: 2.6930 - val_loss: 10.6008 - val_mae: 2.5061
+10/10 [==============================] - 0s 6ms/step - loss: 12.2333 - mae: 2.6924 - val_loss: 10.9157 - val_mae: 2.5563
 Epoch 134/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 9.9408 - mae: 2.6026
-Epoch 134: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.2997 - mae: 2.7312
+Epoch 134: val_loss did not improve from 10.72828
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1516 - mae: 2.6846 - val_loss: 10.8129 - val_mae: 2.5463
+10/10 [==============================] - 0s 6ms/step - loss: 12.3162 - mae: 2.7076 - val_loss: 10.9602 - val_mae: 2.5599
 Epoch 135/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 17.0853 - mae: 2.9465
-Epoch 135: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.2020 - mae: 2.1837
+Epoch 135: val_loss improved from 10.72828 to 10.64783, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2079 - mae: 2.6995 - val_loss: 10.6944 - val_mae: 2.5264
+10/10 [==============================] - 0s 7ms/step - loss: 12.3448 - mae: 2.6962 - val_loss: 10.6478 - val_mae: 2.5118
 Epoch 136/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 15.7360 - mae: 3.1212
-Epoch 136: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 4.7394 - mae: 1.7169
+Epoch 136: val_loss did not improve from 10.64783
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1350 - mae: 2.6829 - val_loss: 10.6396 - val_mae: 2.5200
+10/10 [==============================] - 0s 5ms/step - loss: 12.2243 - mae: 2.6891 - val_loss: 10.7890 - val_mae: 2.5252
 Epoch 137/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 7.7005 - mae: 2.1304
-Epoch 137: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 17.2038 - mae: 3.3420
+Epoch 137: val_loss did not improve from 10.64783
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1262 - mae: 2.6793 - val_loss: 10.5703 - val_mae: 2.5013
+10/10 [==============================] - 0s 5ms/step - loss: 12.2202 - mae: 2.6933 - val_loss: 10.8819 - val_mae: 2.5433
 Epoch 138/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 23.1644 - mae: 3.6977
-Epoch 138: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 12.1353 - mae: 2.6671
+Epoch 138: val_loss did not improve from 10.64783
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.3067 - mae: 2.6933 - val_loss: 10.8236 - val_mae: 2.5575
+10/10 [==============================] - 0s 5ms/step - loss: 12.2221 - mae: 2.6857 - val_loss: 10.9595 - val_mae: 2.5689
 Epoch 139/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.9145 - mae: 2.9405
-Epoch 139: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 6.2382 - mae: 2.0310
+Epoch 139: val_loss did not improve from 10.64783
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1865 - mae: 2.6872 - val_loss: 10.6266 - val_mae: 2.5165
+10/10 [==============================] - 0s 5ms/step - loss: 12.1013 - mae: 2.6622 - val_loss: 10.9050 - val_mae: 2.5484
 Epoch 140/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 7.4495 - mae: 2.1858
-Epoch 140: val_loss did not improve from 10.56853
+ 1/10 [==>...........................] - ETA: 0s - loss: 8.8552 - mae: 2.3685
+Epoch 140: val_loss did not improve from 10.64783
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2206 - mae: 2.6955 - val_loss: 10.5854 - val_mae: 2.5065
+10/10 [==============================] - 0s 5ms/step - loss: 12.3062 - mae: 2.6977 - val_loss: 10.6545 - val_mae: 2.5101
 Epoch 141/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.9342 - mae: 2.7677
-Epoch 141: val_loss improved from 10.56853 to 10.54353, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 20.5324 - mae: 3.3564
+Epoch 141: val_loss did not improve from 10.64783
 
-10/10 [==============================] - 0s 8ms/step - loss: 12.0988 - mae: 2.6769 - val_loss: 10.5435 - val_mae: 2.5096
+10/10 [==============================] - 0s 5ms/step - loss: 12.2772 - mae: 2.6928 - val_loss: 10.9073 - val_mae: 2.5539
 Epoch 142/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 12.0440 - mae: 2.8336
-Epoch 142: val_loss did not improve from 10.54353
+ 1/10 [==>...........................] - ETA: 0s - loss: 21.0032 - mae: 3.5025
+Epoch 142: val_loss did not improve from 10.64783
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2052 - mae: 2.6890 - val_loss: 10.5975 - val_mae: 2.5093
+10/10 [==============================] - 0s 5ms/step - loss: 12.2726 - mae: 2.7070 - val_loss: 11.0162 - val_mae: 2.5748
 Epoch 143/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 8.9345 - mae: 2.1352
-Epoch 143: val_loss did not improve from 10.54353
+ 1/10 [==>...........................] - ETA: 0s - loss: 15.8823 - mae: 2.7924
+Epoch 143: val_loss did not improve from 10.64783
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2926 - mae: 2.7111 - val_loss: 10.6817 - val_mae: 2.5281
+10/10 [==============================] - 0s 5ms/step - loss: 12.1498 - mae: 2.6878 - val_loss: 10.6955 - val_mae: 2.5180
 Epoch 144/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.5885 - mae: 2.9654
-Epoch 144: val_loss improved from 10.54353 to 10.52142, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.6591 - mae: 2.6883
+Epoch 144: val_loss improved from 10.64783 to 10.61963, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 8ms/step - loss: 12.1166 - mae: 2.6811 - val_loss: 10.5214 - val_mae: 2.5092
+10/10 [==============================] - 0s 9ms/step - loss: 12.1507 - mae: 2.6802 - val_loss: 10.6196 - val_mae: 2.5009
 Epoch 145/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.4819 - mae: 3.0911
-Epoch 145: val_loss did not improve from 10.52142
+ 1/10 [==>...........................] - ETA: 0s - loss: 20.2280 - mae: 3.4961
+Epoch 145: val_loss did not improve from 10.61963
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2208 - mae: 2.6946 - val_loss: 10.5957 - val_mae: 2.5140
+10/10 [==============================] - 0s 6ms/step - loss: 12.1250 - mae: 2.6758 - val_loss: 10.6493 - val_mae: 2.5129
 Epoch 146/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 16.6908 - mae: 3.4295
-Epoch 146: val_loss did not improve from 10.52142
+ 1/10 [==>...........................] - ETA: 0s - loss: 7.6958 - mae: 2.2948
+Epoch 146: val_loss did not improve from 10.61963
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.0783 - mae: 2.6736 - val_loss: 10.6934 - val_mae: 2.5281
+10/10 [==============================] - 0s 5ms/step - loss: 12.2270 - mae: 2.6837 - val_loss: 10.8496 - val_mae: 2.5446
 Epoch 147/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 13.2646 - mae: 2.9186
-Epoch 147: val_loss did not improve from 10.52142
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.7347 - mae: 2.7610
+Epoch 147: val_loss did not improve from 10.61963
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.2241 - mae: 2.6983 - val_loss: 10.7403 - val_mae: 2.5375
+10/10 [==============================] - 0s 5ms/step - loss: 12.3063 - mae: 2.7149 - val_loss: 10.8391 - val_mae: 2.5407
 Epoch 148/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 7.9283 - mae: 2.3237
-Epoch 148: val_loss did not improve from 10.52142
+ 1/10 [==>...........................] - ETA: 0s - loss: 13.6427 - mae: 2.7060
+Epoch 148: val_loss did not improve from 10.61963
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1645 - mae: 2.6896 - val_loss: 10.5643 - val_mae: 2.5127
+10/10 [==============================] - 0s 5ms/step - loss: 12.6316 - mae: 2.7491 - val_loss: 10.9069 - val_mae: 2.5526
 Epoch 149/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 7.4107 - mae: 2.1493
-Epoch 149: val_loss improved from 10.52142 to 10.48574, saving model to src/saved_weights\best_model.h5
+ 1/10 [==>...........................] - ETA: 0s - loss: 11.2179 - mae: 2.6482
+Epoch 149: val_loss did not improve from 10.61963
 
-10/10 [==============================] - 0s 8ms/step - loss: 12.1324 - mae: 2.6731 - val_loss: 10.4857 - val_mae: 2.4907
+10/10 [==============================] - 0s 5ms/step - loss: 12.2575 - mae: 2.7088 - val_loss: 10.7852 - val_mae: 2.5329
 Epoch 150/150
 
- 1/10 [==>...........................] - ETA: 0s - loss: 5.1994 - mae: 1.8237
-Epoch 150: val_loss did not improve from 10.48574
+ 1/10 [==>...........................] - ETA: 0s - loss: 9.7848 - mae: 2.4117
+Epoch 150: val_loss improved from 10.61963 to 10.41487, saving model to C:\Users\mohda\OneDrive\Desktop\automobile-mile-per-gallon-prediction/src/saved_weights\best_model.h5
 
-10/10 [==============================] - 0s 5ms/step - loss: 12.1772 - mae: 2.6865 - val_loss: 10.5413 - val_mae: 2.5090
+10/10 [==============================] - 0s 8ms/step - loss: 12.2217 - mae: 2.6787 - val_loss: 10.4149 - val_mae: 2.4747

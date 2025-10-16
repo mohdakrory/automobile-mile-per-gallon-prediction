@@ -1,0 +1,7 @@
+raw_data_path: /data/raw/auto-mpg.csv
+processed_data_path: /data/processed/train_test_data.pkl
+train_test_split: 0.2
+saved_weights_path: /src/saved_weights
+training_artifacts_path: /src/model/training_artifacts
+epochs: 150
+batch_size: 32

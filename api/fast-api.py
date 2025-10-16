@@ -9,9 +9,15 @@ import logging
 import os
 import sys
 from pathlib import Path
+import yaml
 
 project_root = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(project_root))
+
+# Load configuration
+config_path = project_root / 'config.yaml'
+with open(config_path, 'r') as file:
+    config = yaml.safe_load(file)
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
@@ -19,8 +25,9 @@ logger = logging.getLogger(__name__)
 
 # Load model and scaler at startup with error handling
 try:
-    model_path = 'src/saved_weights/best_model.h5'
-    scaler_path = 'src/saved_weights/x_scaler.pkl'
+    # Construct paths from config
+    model_path = str(project_root) + config['saved_weights_path'] + '/best_model.h5'
+    scaler_path = str(project_root) + config['saved_weights_path'] + '/x_scaler.pkl'
     
     if not os.path.exists(model_path):
         raise FileNotFoundError(f"Model file not found at {model_path}")
