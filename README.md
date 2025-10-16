@@ -1,6 +1,6 @@
 # Automobile Miles Per Gallon (MPG) Prediction
 
-![Car](car.png)
+<img width="8000" height="3137" alt="car" src="https://github.com/user-attachments/assets/22dee727-b9a6-437b-9a85-e383436aa7b1" />
 
 ## Introduction
 
@@ -347,5 +347,6 @@ The neural network consists of:
 ## License
 
 MIT License
+
 
 
