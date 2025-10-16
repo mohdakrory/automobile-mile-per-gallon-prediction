@@ -28,7 +28,6 @@ Automobile mile per gallon prediction
 ├─ api
 │  ├─ fast-api.py
 │  └─ __init__.py
-├─ car.png
 ├─ cli
 │  ├─ project_cli.py
 │  └─ __init__.py
